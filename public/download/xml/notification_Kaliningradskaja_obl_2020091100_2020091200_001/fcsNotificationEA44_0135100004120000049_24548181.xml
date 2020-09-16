@@ -1,0 +1,2938 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2">
+        <id>24548181</id>
+        <purchaseNumber>0135100004120000049</purchaseNumber>
+        <docPublishDate>2020-09-11T17:22:05.677+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0135100004120000049</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/viewXml.html?noticeId=24548181</url>
+            <signature type="CAdES-BES">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</signature>
+        </printForm>
+        <purchaseObjectInfo>Поставка автомобильных запасных частей для грузовых автомобилей Главного управления МЧС России по Калининградской области</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>01351000041</regNum>
+                <consRegistryNum>00178382</consRegistryNum>
+                <fullName>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ДЕЛАМ ГРАЖДАНСКОЙ ОБОРОНЫ, ЧРЕЗВЫЧАЙНЫМ СИТУАЦИЯМ И ЛИКВИДАЦИИ ПОСЛЕДСТВИЙ СТИХИЙНЫХ БЕДСТВИЙ ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ</fullName>
+                <postAddress>Российская Федерация, 236029, Калининградская обл, Калининград г, УЛИЦА ОЗЕРНАЯ, ДОМ 31/ЭТАЖ 1,2,3,4,5,6., ПОМЕЩЕНИЕ ЛИТ III ИЗ ЛИТ А</postAddress>
+                <factAddress>Российская Федерация, 236029, Калининградская обл, Калининград г, УЛИЦА ОЗЕРНАЯ, ДОМ 31/ЭТАЖ 1,2,3,4,5,6., ПОМЕЩЕНИЕ ЛИТ III ИЗ ЛИТ А</factAddress>
+                <INN>3906129263</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236029, Калининградская обл, Калининград г, УЛИЦА ОЗЕРНАЯ, ДОМ 31/ЭТАЖ 1,2,3,4,5,6., ПОМЕЩЕНИЕ ЛИТ III ИЗ ЛИТ А</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236029, Калининградская обл, Калининград г, УЛИЦА ОЗЕРНАЯ, ДОМ 31/ЭТАЖ 1,2,3,4,5,6., ПОМЕЩЕНИЕ ЛИТ III ИЗ ЛИТ А</orgFactAddress>
+                <contactPerson>
+                    <lastName>Володин</lastName>
+                    <firstName>Григорий</firstName>
+                    <middleName>Владимирович</middleName>
+                </contactPerson>
+                <contactEMail>torgimchs39@mail.ru</contactEMail>
+                <contactPhone>7-4012-529148</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_EETP</code>
+            <name>АО «ЕЭТП»</name>
+            <url>http://roseltorg.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-09-11T17:22:05+02:00</startDate>
+                <place>Заявка на участие в электронном аукционе направляется участником аукциона оператору электронной площадки в форме двух электронных документов, содержащая первую и вторую части, предусмотренные ст.66 Федерального закона № 44-ФЗ. Указанные электронные документы подаются одновременно</place>
+                <order>Участник электронного аукциона вправе подать заявку на участие в аукционе в любое время с момента размещения извещения о его проведении до предусмотренных документацией о таком аукционе даты и времени окончания срока подачи на участие в таком аукционе заявок</order>
+                <endDate>2020-09-25T13:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-09-28T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-09-29T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>435604.04</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>01351000041</regNum>
+                        <consRegistryNum>00178382</consRegistryNum>
+                        <fullName>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ДЕЛАМ ГРАЖДАНСКОЙ ОБОРОНЫ, ЧРЕЗВЫЧАЙНЫМ СИТУАЦИЯМ И ЛИКВИДАЦИИ ПОСЛЕДСТВИЙ СТИХИЙНЫХ БЕДСТВИЙ ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ</fullName>
+                    </customer>
+                    <maxPrice>435604.04</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>C</kladrType>
+                                <kladrCode>39000001000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл, Калининград г</fullName>
+                            </kladr>
+                            <deliveryPlace>ул. Нарвская, д. 52</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>начало поставки – с даты заключения государственного контракта;&#13;
+срок окончания поставки – в течение 30 (тридцати) календарных дней с даты заключения государственного контракта.</deliveryTerm>
+                    <applicationGuarantee>
+                        <amount>4356.04</amount>
+                        <part>1.0</part>
+                        <procedureInfo>В соответствии с ч.2 ст.44 Федерального закона от 05.04.2013 № 44-ФЗ обеспечение заявки на участие в электронных аукционах может предоставляться участником закупки в виде денежных средств или банковской гарантии. Выбор способа обеспечения заявки на участие в конкурсе или аукционе осуществляется участником закупки.</procedureInfo>
+                        <settlementAccount>40302810340301004001</settlementAccount>
+                        <personalAccount>05351783820</personalAccount>
+                        <bik>042748001</bik>
+                    </applicationGuarantee>
+                    <contractGuarantee>
+                        <part>10.0</part>
+                        <procedureInfo>Исполнение контракта может обеспечиваться предоставлением безотзывной банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Федерального закона от 05.04.2013 № 44-ФЗ «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд», или внесением денежных средств на указанный Государственным заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Государственному заказчику. Способ обеспечения исполнения контракта из выше перечисленных способов определяется участником аукциона самостоятельно. Способ обеспечения исполнения контракта, срок действия банковской гарантии определяются в соответствии с требованиями Федерального закона участником закупки, с которым заключается государственный контракт, самостоятельно. При этом срок действия банковской гарантии должен превышать предусмотренный государственным контрактом срок исполнения обязательств, которые должны быть обеспечены такой банковской гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Федерального закона.</procedureInfo>
+                        <settlementAccount>40302810340301004001</settlementAccount>
+                        <personalAccount>05351783820</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201390612926339060100101360010000244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:undefined>0000</ns3:undefined>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>13906129263390601001</customerCode>
+                        <purchaseNumber>0136</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202001351000041001</ns3:plan2020Number>
+                        <ns3:position2020Number>202001351000041001000116</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>федеральный бюджет</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>435604.04</total>
+                                <currentYear>435604.04</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <budgetFinancings>
+                            <currentYear>2020</currentYear>
+                            <budgetFinancing>
+                                <KBKCode>17703101020190049244</KBKCode>
+                                <KBKYearsInfo>
+                                    <total>435604.04</total>
+                                    <currentYear>435604.04</currentYear>
+                                    <firstYear>0</firstYear>
+                                    <secondYear>0</secondYear>
+                                    <subsecYears>0</subsecYears>
+                                </KBKYearsInfo>
+                            </budgetFinancing>
+                            <totalSum>871208.08</totalSum>
+                        </budgetFinancings>
+                    </contractExecutionPaymentPlan>
+                    <BOInfo>
+                        <BONumber>0017838220000000131</BONumber>
+                        <BODate>2020-09-10T00:00:00+03:00</BODate>
+                        <inputBOFlag>auto</inputBOFlag>
+                        <BORegistered>false</BORegistered>
+                    </BOInfo>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.31.21.110</code>
+                        <name>Свечи зажигания</name>
+                    </OKPD2>
+                    <name>140.Свеча зажигания АЦ-40 ЗИЛ-131</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>126.09</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>504.36</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.31.21.110</code>
+                        <name>Свечи зажигания</name>
+                    </OKPD2>
+                    <name>139. Свечи АЛ-30 ЗИЛ-131(Л-21)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>245.8</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>983.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.31.21.110</code>
+                        <name>Свечи зажигания</name>
+                    </OKPD2>
+                    <name>82.Свеча зажигания АПП-0,3-2,0 ГАЗ (2705) Natisk</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>216.14</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>864.56</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.31.21.110</code>
+                        <name>Свечи зажигания</name>
+                    </OKPD2>
+                    <name>81.Свечи зажигания APS АСО-20 ГАЗ-3308-90 ВР</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>379</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>1516</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.31.23.120</code>
+                        <name>Стеклоочистители, антиобледенители и антизапотеватели для транспортных средств и мотоциклов</name>
+                    </OKPD2>
+                    <name>158.Щетка стеклоочистителя КАМАЗ 5320</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>250.65</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>250.65</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.31.23.120</code>
+                        <name>Стеклоочистители, антиобледенители и антизапотеватели для транспортных средств и мотоциклов</name>
+                    </OKPD2>
+                    <name>157.Рычаг стеклоочистителя  КАМАЗ 5320</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>455.55</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>455.55</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.31.23.120</code>
+                        <name>Стеклоочистители, антиобледенители и антизапотеватели для транспортных средств и мотоциклов</name>
+                    </OKPD2>
+                    <name>151.Щеткодержатель КАМАЗ 55111</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>286.88</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>286.88</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.31.23.120</code>
+                        <name>Стеклоочистители, антиобледенители и антизапотеватели для транспортных средств и мотоциклов</name>
+                    </OKPD2>
+                    <name>150.Щетка стеклоочистителя КАМАЗ 55111</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>234.72</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>234.72</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.31.23.120</code>
+                        <name>Стеклоочистители, антиобледенители и антизапотеватели для транспортных средств и мотоциклов</name>
+                    </OKPD2>
+                    <name>116.Мотор стеклоочистителя АЦ-5,5-70 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1814.24</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>1814.24</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.138</code>
+                        <name>Аппараты пневматического тормозного привода</name>
+                    </OKPD2>
+                    <name>46.Фильтр осушитель АЦ-3,2-40/4 (IVEKO-AMT)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1881.68</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3763.36</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.138</code>
+                        <name>Аппараты пневматического тормозного привода</name>
+                    </OKPD2>
+                    <name>35.Фильтр осушитель АЦ-6,0-70 КАМАЗ (43118)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1152.56</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>1152.56</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.138</code>
+                        <name>Аппараты пневматического тормозного привода</name>
+                    </OKPD2>
+                    <name>31.Влагоотделитель АЦ-6,0-60 КАМАЗ (43118)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1526.84</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3053.68</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.138</code>
+                        <name>Аппараты пневматического тормозного привода</name>
+                    </OKPD2>
+                    <name>18.Сепаратор АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1285.99</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>1285.99</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.138</code>
+                        <name>Аппараты пневматического тормозного привода</name>
+                    </OKPD2>
+                    <name>3.Влагоотделитель, АЦ-3,2-40/4 КАМАЗ (5387)&#13;
+&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>5188.7</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>10377.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.150</code>
+                        <name>Управление рулевое, его узлы и детали</name>
+                    </OKPD2>
+                    <name>10.Фильтр ГУР АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>426.67</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>426.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.239</code>
+                        <name>Узлы и детали кабин (кузовов), не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>155.Щиток крепления подножки КАМАЗ 55111</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>828.67</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1657.34</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.239</code>
+                        <name>Узлы и детали кабин (кузовов), не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>154.Щиток крепления подножки КАМАЗ 55111</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>828.67</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1657.34</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.239</code>
+                        <name>Узлы и детали кабин (кузовов), не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>149.Щиток грязевой АЦ-3,2-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>925.59</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1851.18</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.239</code>
+                        <name>Узлы и детали кабин (кузовов), не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>148.Щиток грязевой АЦ-3,2-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>923</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1846</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.239</code>
+                        <name>Узлы и детали кабин (кузовов), не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>147.Щиток подножки правый </name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>896.5</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1793</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.239</code>
+                        <name>Узлы и детали кабин (кузовов), не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>146.Щиток подножки левый АЦ-3,2-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>896.5</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1793</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.239</code>
+                        <name>Узлы и детали кабин (кузовов), не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>145.Крыло левое АЦ-3,2-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1767.58</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3535.16</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.239</code>
+                        <name>Узлы и детали кабин (кузовов), не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>144.Крыло правое АЦ-3,2-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1767.58</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3535.16</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.240</code>
+                        <name>Передачи карданные, валы приводные, шарниры неравных и равных угловых скоростей</name>
+                    </OKPD2>
+                    <name>104.Крестовина карданного вала АПС-1,0-40/2 (ISUZU) NRP75L</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2351</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>2351</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>141.Фильтр воздушный АЦ -1,0-40  Хундай(HD 78)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1918.25</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>1918.25</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>137.Фильтр воздушный АЛ-30 ЗИЛ-131(Л-21)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>793.67</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>793.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>135.Воздушный фильтр ВПМ-3 ЗИЛ-131Р-140М</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>4207</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>4207</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>132.Фильтр воздушный АЦ-3,2-40/4 MAN TGM13/290</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2981.46</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>2981.46</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>125.Фильтр воздушный АЦ-6,0-70 Урал (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>6786.16</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>6786.16</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>120.Воздушный фильтр АЦ-5,5-70 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1177.42</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>1177.42</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>110.Фильтр воздушный АЦ-3,0-40 УРАЛ (43206)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2690.42</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>5380.84</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>105.Фильтр воздушный АПС-1,0-40 (ISUZU ELF 7,5)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2022.33</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>2022.33</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>102.Фильтр воздушный АПС-1,0-40/2 (ISUZU) NRP75L</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1074.96</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>1074.96</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>98.Фильтр воздушный салона АПС-1,0-40/2 (ISUZU) NRP75L</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1044.4</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>1044.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>94.Фильтр воздушный  в сборе АЦ-2,0-40 КАМАЗ (4308)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>5814.67</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>5814.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>85.Фильтр воздушный АПП-0,3-2,0 ГАЗ (2705) Natisk</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>705.4</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1410.8</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>77.Фильтр воздушный МК ГАЗ 3308</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2010.64</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>2010.64</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>75.Фильтр воздушный УАЗ - 2989</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>245.04</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>245.04</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>73.Фильтр воздушный ГАЗ (3221)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>418.53</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>418.53</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>72.Фильтр воздушный ПКС-300 ПАЗ (3205) - 01 НН</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>251.86</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>251.86</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>70.Фильтр воздушный АГ-12 ПАЗ (3205)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>408.67</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>408.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>68.Фильтр воздушный АЦ-3,2-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>7035</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>7035</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>66.Элемент воздушного фильтра АЦ-3,2-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>565.07</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>565.07</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>65.Фильтр воздушный АЦ-3,2-40/4 КАМАЗ (43253) </name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>990.67</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1981.34</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>58.Фильтр воздушный АЦ 2,0-40 КАМАЗ (4308)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1603.83</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>1603.83</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>55.Фильтр воздушный вспомогательный АЛ-50 КАМАЗ-65115</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2348.54</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>4697.08</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>54.Фильтр воздушный (538.50х240х148мм) АЛ-50 КАМАЗ-65115</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2198.33</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>4396.66</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>53.Фильтр воздушный АЛ-50 КАМАЗ (65115)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3201.17</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>3201.17</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>49.Фильтр воздушный салона I (440х99х38мм) АЦ-3,2-40/2 IVECO (ML 150)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>805.34</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>805.34</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>45.Фильтр салона АЦ-3,2-40/4 (IVEKO-AMT)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>325.58</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>325.58</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>41.Фильтр воздушный АЦ-3,2-40/4 (IVEKO-AMT)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>6777</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>13554</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>36.Фильтр воздушный АЦ-8-70 КАМАЗ (43118)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>5641.46</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>11282.92</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>29.Фильтр воздушный АЦ-6,0-60 КАМАЗ (43118)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3444.19</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>6888.38</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>24.Фильтр топливный грубой очистки АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>970.67</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1941.34</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>23.Воздушный фильтр тонкой очистки АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3458.36</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>6916.72</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>22.Воздушный фильтр  грубой очистки АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2840.94</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>5681.88</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>17.Воздушный фильтр АЛ-30 (Камаз 45302)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>5181.53</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>5181.53</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>13.Фильтр воздушный АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>666.31</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1332.62</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>2.Фильтр воздушный грубой очистки, АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>999.77</price>
+                    <quantity>
+                        <value>9</value>
+                    </quantity>
+                    <sum>8997.93</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.269</code>
+                        <name>Узлы и детали систем вентиляции, отопления и кондиционирования воздуха, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>1.Фильтр воздушный тонкой очистки АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>665.9</price>
+                    <quantity>
+                        <value>9</value>
+                    </quantity>
+                    <sum>5993.1</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>159.Фильтр масляный (элемент) КАМАЗ 5320</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>182.21</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>364.42</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>156.Болт 8Х20 КАМАЗ 55111</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>17.09</price>
+                    <quantity>
+                        <value>20</value>
+                    </quantity>
+                    <sum>341.8</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>153.Бачок омывателя КАМАЗ 55111</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>449.06</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>449.06</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>152.Форсунка омывателя стекла КАМАЗ 55111</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>52.68</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>52.68</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>143.Фильтр топливный АЦ -1,0-40  Хундай(HD 78)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1027.18</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2054.36</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>142.Фильтр масляный АЦ -1,0-40  Хундай(HD 78)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>922.04</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1844.08</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>138.Фильтр топливный АЛ-30 ЗИЛ-131(Л-21)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1534.48</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3068.96</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>136.Фильтр масляный АЛ-30 ЗИЛ-131(Л-21)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2989.5</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>5979</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>134.Фильтр масляный АЦ-3,2-40/4 MAN TGM13/290</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>913.82</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1827.64</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>133.Фильтр топливный грубой очистки АЦ-3,2-40/4 MAN TGM13/290</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1092.83</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2185.66</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>131.Фильтр топливный ЯМЗ тонкой очистки АЦ-9,0-50 Урал (4320)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>836.67</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1673.34</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>130.Фильтр масляный съёмный АЦ-9,0-50 Урал (4320)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>932.18</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1864.36</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>129.Ремень генератора АЦ-6,0-40 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>161.21</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>161.21</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>128.Ремень компрессора АЦ-6,0-40 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>199.67</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>199.67</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>127.Ремень вод.насоса АЦ-6,0-40 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>292.23</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>292.23</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>126.Фильтр влагомаслоотделитель АЦ-6,0-40 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>15429.94</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>15429.94</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>124.Фильтр топливный АЦ-6,0-70 Урал (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3169.7</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>6339.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>123.Фильтр масляный АЦ-6,0-70 Урал (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1405.02</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2810.04</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>122.Реле  включения насоса АЦ-5,5-70 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>104.45</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>104.45</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>121.Фильтр топливный грубой очистки АЦ-5,5-70 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2641.67</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>5283.34</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>119.Элемент топливный  АЦ-5,5-70 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1170.22</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2340.44</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>118.Фильтр масляный АЦ-5,5-70 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>849.42</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1698.84</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>117.Фильтр топливный ЯМЗ тонкой очистки АЦ-5,5-70 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>723.7</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1447.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>115.Фильтр масляный АЦ-5,5-70 УРАЛ (5557)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>590.34</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1180.68</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>114.Ремень насоса ГУР АЦ-3,0-40 УРАЛ (43206)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>210.17</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>210.17</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>113.Ремень водяного насоса АЦ-3,0-40 УРАЛ (43206)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>171.52</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>171.52</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>112.Фильтр тонкой очистки топливный АЦ-3,0-40 УРАЛ (43206)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>490.54</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>981.08</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>111.Фильтр масляный АЦ-3,0-40 УРАЛ (43206) 1</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>269.7</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>539.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>109.Фильтр  тонкой очистки ПСА 2,0-40/2 Урал (43206)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>787.88</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1575.76</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>108.Фильтр грубой очистки ПСА 2,0-40/2 Урал (43206)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>139.97</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>279.94</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>107.Фильтр масляный АПС-1,0-40 (ISUZU ELF 7,5)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2576.83</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>5153.66</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>106.Фильтр топливный АПС-1,0-40(ISUZU ELF 7,5)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>868.09</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1736.18</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>103.Подшипник подвесной АПС-1,0-40/2 (ISUZU) NRP75L</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>7993.33</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>7993.33</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>101.Фильтр масляный АПС-1,0-40/2 (ISUZU) NRP75L</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2266.33</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>4532.66</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>100.Фильтр влагоотделитель АПС-1,0-40/2 (ISUZU) NRP75L</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>6110.88</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>6110.88</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>99.Фильтр топливный АПС-1,0-40/2 (ISUZU) NRP75L</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>6901.68</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>13803.36</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>97.Фильтр масляный АПС-1,0-40/2 (ISUZU) NRP75L</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1649.99</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3299.98</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>96.Фильтр топливный тонкой очистки АПС-1,0-40/2 (ISUZU) NRP75L</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>887.18</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1774.36</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>95.Фильтр топливный грубой очистки АПС-1,0-40/2 (ISUZU) NRP75L</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>6540.33</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>13080.66</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>93.Топливный фильтр АЦ-2,0-40 КАМАЗ (4308)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>939.4</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>939.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>92.Фильтр масляный CUMMINS АЦ-2,0-40 КАМАЗ (4308)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>857.43</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1714.86</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>91.Фильтр масляный АП-5 КАМАЗ (53213)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>772.73</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1545.46</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>90.Ремкомплкет к Фильтру топливному грубой очистки АП-5 КАМАЗ (53213)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>178</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>178</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>89.Прокладка ЗМЗ-406 крышки клапанной (силикон) ГАЗ 2705</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>167.62</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>167.62</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>88.Фильтр топливный АЦ-СПК-1,0-40 ГАЗ NATISK</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>551.88</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1103.76</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>87.Фильтр масляный АЦ-СПК-1,0-40 ГАЗ NATISK</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1470.39</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2940.78</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>86.Фильтр масляный  АПП-0,3-2,0 ГАЗ (2705) Natisk</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>224.6</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>449.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>84.Фильтр топливный АПП-0,3-2,0 ГАЗ (2705) Natisk</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>307.07</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>614.14</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>83.Фильтр масляный АПП-0,3-2,0 ГАЗ (2705) Natisk</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>228.59</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>457.18</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>80.Элемент МФ(Металл) АСО-20 ГАЗ-3308-90 ВР</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>143.18</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>286.36</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>79.Фильтр топливный МК ГАЗ 3308</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1197.47</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2394.94</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>78.Фильтр масляный МК ГАЗ 3308</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1754.34</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3508.68</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>76.Фильтр масляный УАЗ - 2989</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>285.55</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>571.1</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>74.Фильтр масляный ГАЗ (3221)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>416.83</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>833.66</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>71.Фильтр масляный АГ-12 ПАЗ (3205)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>154.17</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>308.34</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>69.Фильтр топливный АЦ-3,2-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>551.06</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1102.12</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>67.Элемент топливного фильтра АЦ-3,2-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>300.1</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>600.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>64.Фильтр топливный  АЦ-3,2-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1131.67</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2263.34</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>63.Фильтр топливный ПСА-2,5-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1037.57</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2075.14</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>62.Фильтр масляный АПС-2,5-40/4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>861</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1722</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>61.Фильтр топливный АР-4 КАМАЗ (43253)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1261.66</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2523.32</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>60.Фильтр воздушный АР-2 КАМАЗ (43105)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>628.57</price>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                    <sum>628.57</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>59.Фильтр топливный грубой очистки АР-2 КАМАЗ (43105)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>190.52</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>381.04</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>57.Ремкомплект фильтра тонкой очистки топлива АЦ-7,0-40 КАМАЗ (65115)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>675.1</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1350.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>56.Фильтр масляный Cummins АЛ-50 КАМАЗ-65115</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1013.94</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2027.88</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>52.Фильтр топливный АЛ-50 КАМАЗ (65115)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>323.48</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>646.96</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>51.Фильтр топливный грубой очистки АПТ-7-40 КАМАЗ (65115)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2668.67</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>5337.34</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>50.Фильтрующий элемент АЦ-3,0-40 КАМАЗ (5350)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>62.2</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>124.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>48.Фильтр топливный АЦ-3,2-40/2 IVECO (ML 150)&#13;
+&#13;
+IVECO (ML 150)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>983.66</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1967.32</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>47.Фильтр масляный АЦ-3,2-40/2 IVECO (ML 150)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>913.38</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1826.76</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>44.Фильтр топливный АЦ-3,2-40/4 (IVEKO-AMT)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>704.25</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1408.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>43.Фильтр масляный АЦ-3,2-40/4 (IVEKO-AMT)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>663.68</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1327.36</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>42.Фильтр топливный грубой очистки АЦ-3,2-40/4 (IVEKO-AMT)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2164.54</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>4329.08</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>40.Фильтр топливный грубой очистки АЛ-30 КАМАЗ (43114)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1436.22</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2872.44</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>39.Фильтр топливный грубой очистки АПТ-7 КАМАЗ-43118</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1656.26</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3312.52</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>38.Фильтр масляный АЦЛ-3,0-40/4-24 КАМАЗ (43118)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>143.79</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>287.58</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>37.Фильтр топливный грубой очистки АЦ-8-70 КАМАЗ (43118)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1867.26</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3734.52</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>34.Фильтр топливный АЦ-6,0-70 КАМАЗ (43118)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>655</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1310</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>33.Фильтр топливный грубой очистки АЦ-6,0-60 КАМАЗ (43118)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1830.6</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3661.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>32.Фильтр масляный АЦ-6,0-60 КАМАЗ (43118)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>6361.6</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>12723.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>30.Фильтр топливный тонкой очистки АЦ-6,0-60 КАМАЗ (43118)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>477.25</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>954.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>28.Фильтр топливный АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>73.44</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>146.88</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>27.Элемент топливного фильтра АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>111.58</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>223.16</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>26.Фильтр масляный АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>8267.34</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>16534.68</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>25.Фильтр масляный АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>437.58</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>875.16</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>21.Топливный фильтр АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1054.21</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2108.42</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>20.Масляный фильтр АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>946.88</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1893.76</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>19.Влаготделитель AIM АКП-50 КАМАЗ (6540)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1124.07</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2248.14</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>16.Топливный фильтр грубой очистки АЛ-30 (Камаз 45302)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2128.99</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>4257.98</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>15.Фильтр топливный тонкой очистки АЛ-30 (Камаз 45302)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2383.91</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>4767.82</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>14.Фильтр топливный АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1663.96</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3327.92</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>12.Фильтр масляный АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>880.35</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1760.7</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>11.Элемент топливный АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1511.09</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3022.18</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>9.Фильтр масляный АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2357.1</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>4714.2</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>8.Фильтр масляный (элемент) АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>344.83</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>689.66</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>7.Фильтр масляный АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1188.81</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2377.62</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>6.Фильтр топливный тонкой очистки АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1653.53</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>3307.06</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>5.Фильтр топливный грубой очистки АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2625.5</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>5251</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>29.32.30.390</code>
+                        <name>Части и принадлежности для автотранспортных средств прочие, не включенные в другие группировки</name>
+                    </OKPD2>
+                    <name>4.Топливный фильтр тонкой очистки АЦ-3,2-40/4 КАМАЗ (5387)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1016.8</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>2033.6</sum>
+                </purchaseObject>
+                <totalSum>435604.04</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>AF0BD0171D83B629E0530F548D0AE181</publishedContentId>
+                <fileName>АУКЦИОН по закупке запчастей для грузовых автомобилей для СМП.docx</fileName>
+                <fileSize>226.76 Кб</fileSize>
+                <docDescription>АУКЦИОН по закупке запчастей для грузовых автомобилей для СМП</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=AF0BD0171D83B629E0530F548D0AE181</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>AF0B658741739E39E0530F548D0A1A28</publishedContentId>
+                <fileName>Расчет НМЦК на грузовые запчасти 2020.xls</fileName>
+                <fileSize>1.05 Мб</fileSize>
+                <docDescription>Расчет НМЦК на грузовые запчасти 2020</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=AF0B658741739E39E0530F548D0A1A28</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-09-11T17:22:05+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-09-23T13:00:00+02:00</endDate>
+                <deliveryProcedure>Порядок предоставления участникам электронного аукциона разъяснений положений документации об электронном аукционе указан в пункте 2 раздела 1.2 настоящей документации.</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/viewXml.html?noticeId=24548181</ns3:url>
+                <ns3:signature type="CAdES-BES">MIIXgQYJKoZIhvcNAQcCoIIXcjCCF24CAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCEsgwggeYMIIHRaADAgECAgpiq3mVAAAAAAO2MAoGCCqFAwcBAQMCMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgwHhcNMjAwMjA1MTQwMjQ3WhcNMzUwMjA1MTQwMjQ3WjCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjBmMB8GCCqFAwcBAQEBMBMGByqFAwICIwEGCCqFAwcBAQICA0MABED8bX8OMj0fD4hXXpf2mbS9MSPu4Tyu/zw4AB2YPt12ZG5gPoUuXj3Vmq8DEX3izuPkLaL9cLk4yQSElDqcpQj0o4IEAzCCA/8wEgYDVR0TAQH/BAgwBgEB/wIBADBSBgUqhQNkbwRJDEci0JrRgNC40L/RgtC+0J/RgNC+IENTUCIg0LLQtdGA0YHQuNGPIDQuMCAo0LjRgdC/0L7Qu9C90LXQvdC40LUgMi1CYXNlKTAlBgNVHSAEHjAcMAgGBiqFA2RxATAIBgYqhQNkcQIwBgYEVR0gADAOBgNVHQ8BAf8EBAMCAcYwggFlBgNVHSMEggFcMIIBWIAUwlTxtGvUTLfgbTa0I5Dx/sM8mwahggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ghBObUeLJvJ9ZX92jgJc49OTMB0GA1UdDgQWBBTQZJZtckDrWH0kf7sgW8/Djmx61DCBmAYDVR0fBIGQMIGNMC2gK6AphidodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjX2dvc3QxMi5jcmwwLaAroCmGJ2h0dHA6Ly9jb21wYW55LnJ0LnJ1L2NkcC9ndWNfZ29zdDEyLmNybDAtoCugKYYnaHR0cDovL3Jvc3RlbGVjb20ucnUvY2RwL2d1Y19nb3N0MTIuY3JsMEMGCCsGAQUFBwEBBDcwNTAzBggrBgEFBQcwAoYnaHR0cDovL3JlZXN0ci1wa2kucnUvY2RwL2d1Y19nb3N0MTIuY3J0MIH1BgUqhQNkcASB6zCB6Aw00J/QkNCa0JwgwqvQmtGA0LjQv9GC0L7Qn9GA0L4gSFNNwrsg0LLQtdGA0YHQuNC4IDIuMAxD0J/QkNCaIMKr0JPQvtC70L7QstC90L7QuSDRg9C00L7RgdGC0L7QstC10YDRj9GO0YnQuNC5INGG0LXQvdGC0YDCuww10JfQsNC60LvRjtGH0LXQvdC40LUg4oSWIDE0OS8zLzIvMi8yMyDQvtGCIDAyLjAzLjIwMTgMNNCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvNy82LzEwNSDQvtGCIDI3LjA2LjIwMTgwCgYIKoUDBwEBAwIDQQBg7v+C0QPomAIsrt98MOueCAHIs4wZp+javlNqQ5T9oFKJ1INrXtyetN+VTDpEQ/xKs5ruj+18LCmRsskXaXoJMIILKDCCCtWgAwIBAgIUO6zVadRQNojPb3Rkb3ordEAyYmowCgYIKoUDBwEBAwIwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wHhcNMjAwMjI1MDczMjA2WhcNMjEwNTI1MDczMjA2WjCCAt4xGjAYBggqhQMDgQMBARIMNDYyOTAyOTg5NDY2MRYwFAYFKoUDZAMSCzEzMjI1MzQyMTEyMSMwIQYJKoZIhvcNAQkBFhRlbGVuYV9hX21jaHNAbWFpbC5ydTELMAkGA1UEBhMCUlUxNjA0BgNVBAgMLdCa0LDQu9C40L3QuNC90LPRgNCw0LTRgdC60LDRjyDQvtCx0LvQsNGB0YLRjDEqMCgGA1UEBwwh0LPQvtGA0L7QtCDQmtCw0LvQuNC90LjQvdCz0YDQsNC0MYIBWjCCAVYGA1UECgyCAU3Qk9Cb0JDQktCd0J7QlSDQo9Cf0KDQkNCS0JvQldCd0JjQlSDQnNCY0J3QmNCh0KLQldCg0KHQotCS0JAg0KDQntCh0KHQmNCZ0KHQmtCe0Jkg0KTQldCU0JXQoNCQ0KbQmNCYINCf0J4g0JTQldCb0JDQnCDQk9Cg0JDQltCU0JDQndCh0JrQntCZINCe0JHQntCg0J7QndCrLCDQp9Cg0JXQl9CS0KvQp9CQ0JnQndCr0Jwg0KHQmNCi0KPQkNCm0JjQr9CcINCYINCb0JjQmtCS0JjQlNCQ0KbQmNCYINCf0J7QodCb0JXQlNCh0KLQktCY0Jkg0KHQotCY0KXQmNCZ0J3Qq9ClINCR0JXQlNCh0KLQktCY0Jkg0J/QniDQmtCQ0JvQmNCd0JjQndCT0KDQkNCU0KHQmtCe0Jkg0J7QkdCb0JDQodCi0JgxKDAmBgNVBCoMH9Cg0L7QvNCw0L0g0JLQsNGB0LjQu9GM0LXQstC40YcxGzAZBgNVBAQMEtCV0LzQtdC70YzRj9C90L7QsjEwMC4GCSqGSIb3DQEJAhMhMS4yLjY0My4zLjYxLjEuMS42LjUwMjcxMC4zLjQuMi4xMTswOQYDVQQDDDLQldC80LXQu9GM0Y/QvdC+0LIg0KDQvtC80LDQvSDQktCw0YHQuNC70YzQtdCy0LjRhzBmMB8GCCqFAwcBAQEBMBMGByqFAwICJAAGCCqFAwcBAQICA0MABEDtTcnCksQ6+Rj7LgFVMBEnUEnYdA9eKnL4IRM5zk0Vc0TmjKdVEy31u+Xx/5NoiQLTL23eY0M559zQ5WZkW0c7o4IFzzCCBcswDAYDVR0TAQH/BAIwADATBgNVHSAEDDAKMAgGBiqFA2RxATAoBgNVHREEITAfoB0GCiqFAwM9ntc2AQigDxMNMDEzNTEwMDAwMDAzMjA2BgUqhQNkbwQtDCsi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyA0LjApMIIBZAYFKoUDZHAEggFZMIIBVQxHItCa0YDQuNC/0YLQvtCf0YDQviBDU1AiINCy0LXRgNGB0LjRjyA0LjAgKNC40YHQv9C+0LvQvdC10L3QuNC1IDItQmFzZSkMaNCf0YDQvtCz0YDQsNC80LzQvdC+LdCw0L/Qv9Cw0YDQsNGC0L3Ri9C5INC60L7QvNC/0LvQtdC60YEgwqvQrtC90LjRgdC10YDRgi3Qk9Ce0KHQosK7LiDQktC10YDRgdC40Y8gMy4wDE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI0LTMzODAg0L7RgiAxMS4wNS4yMDE4DE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI4LTM1ODEg0L7RgiAyMC4xMi4yMDE4MA4GA1UdDwEB/wQEAwID+DCCAbEGA1UdJQSCAagwggGkBggrBgEFBQcDAQYIKwYBBQUHAwIGDyqFAwM9AQEGntc2AwQBAQYPKoUDAz0BAQae1zYDBAECBg8qhQMDPQEBBp7XNgMEAQMGDyqFAwM9AQEGntc2AwQBBAYPKoUDAz0BAQae1zYDBAEFBg8qhQMDPQEBBp7XNgMEAQYGDyqFAwM9AQEGntc2AwQBBwYPKoUDAz0BAQae1zYDBAEIBg8qhQMDPQEBBp7XNgMEAQkGDyqFAwM9AQEGntc2AwQBCgYPKoUDAz0BAQae1zYDBAELBg8qhQMDPQEBBp7XNgMEAQwGDyqFAwM9AQEGntc2AwQBDgYNKoUDAz2e1zYBBgMFAQYNKoUDAz2e1zYBBgMFAgYHKoUDA4F7AQYIKoUDA4F7AQIGCCqFAwOBewEDBggqhQMDgXsBBAYIKoUDA4F7AQUGCCqFAwOBewEGBggqhQMDgXsBBwYIKoUDA4F7AQgGCCqFAwOBewEJBggqhQMDgXsBCgYIKoUDA4F7AQsGCCqFAwOBewEMBggqhQMDgXsBDgYIKoUDA4F7CAEGCCqFAwOBewgCMCsGA1UdEAQkMCKADzIwMjAwMjIxMTQwNTI3WoEPMjAyMTA1MjExNDA1MjdaMIIBXwYDVR0jBIIBVjCCAVKAFNBklm1yQOtYfSR/uyBbz8OObHrUoYIBLKSCASgwggEkMR4wHAYJKoZIhvcNAQkBFg9kaXRAbWluc3Z5YXoucnUxCzAJBgNVBAYTAlJVMRgwFgYDVQQIDA83NyDQnNC+0YHQutCy0LAxGTAXBgNVBAcMENCzLiDQnNC+0YHQutCy0LAxLjAsBgNVBAkMJdGD0LvQuNGG0LAg0KLQstC10YDRgdC60LDRjywg0LTQvtC8IDcxLDAqBgNVBAoMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4MRgwFgYFKoUDZAESDTEwNDc3MDIwMjY3MDExGjAYBggqhQMDgQMBARIMMDA3NzEwNDc0Mzc1MSwwKgYDVQQDDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuIIKYqt5lQAAAAADtjBoBgNVHR8EYTBfMC6gLKAqhihodHRwOi8vY3JsLnJvc2them5hLnJ1L2NybC91Y2ZrXzIwMjAuY3JsMC2gK6AphidodHRwOi8vY3JsLmZzZmsubG9jYWwvY3JsL3VjZmtfMjAyMC5jcmwwHQYDVR0OBBYEFG/jsE/Sp74glUqA+kaheI5kEjQLMAoGCCqFAwcBAQMCA0EAw9yc6utk+z3vTpQFbb26jqiLbdF8dTDlqBVTb/qW9fNws9T90kOI2sjE33JmSYbqit9hsMXGc8X+GQvDi2j7iTGCBH4wggR6AgEBMIIBhzCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvgIUO6zVadRQNojPb3Rkb3ordEAyYmowDAYIKoUDBwEBAgIFAKCCAncwGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjAwOTExMTUyMjIxWjAqBgorBgEEAYI3WAIBMRwEGkQAbwBjAHUAbQBlAG4AdAAgAE4AYQBtAGUAMC8GCSqGSIb3DQEJBDEiBCCNHj8XbwJVvZraX2rOq7xLtL7NXTcoG9j/NMAKwkOeHzCCAd4GCyqGSIb3DQEJEAIvMYIBzTCCAckwggHFMIIBwTAKBggqhQMHAQECAgQg8csFQm4V6traSapKplhFEKUutdDE2dsRI9e/qpOOIa8wggGPMIIBdaSCAXEwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4CFDus1WnUUDaIz290ZG96K3RAMmJqMB8GCCqFAwcBAQEBMBMGByqFAwICJAAGCCqFAwcBAQICBEDuA21ud3roXi2bWOqOd1hygXsnVyjOpMg2fIw3CaI8yKBqMG5yeDqRGD6j8zp6GbU2sj0w2QeC1dWaPJUHSU/O</ns3:signature>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

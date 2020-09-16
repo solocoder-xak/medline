@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2">
+        <id>24531254</id>
+        <purchaseNumber>0335100010820000105</purchaseNumber>
+        <docPublishDate>2020-09-09T17:15:30.471+02:00</docPublishDate>
+        <docNumber>№0335100010820000105</docNumber>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335100010820000105</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/viewXml.html?noticeId=24531254</url>
+            <signature type="CAdES-BES">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</signature>
+        </printForm>
+        <purchaseObjectInfo>Поставка журнально-бланочной продукции для нужд УВМ УМВД России по Калининградской области</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03351000108</regNum>
+                <consRegistryNum>00112819</consRegistryNum>
+                <fullName>УПРАВЛЕНИЕ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ</fullName>
+                <postAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПР-КТ СОВЕТСКИЙ, 7</postAddress>
+                <factAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПР-КТ СОВЕТСКИЙ, 7</factAddress>
+                <INN>3904020768</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПР-КТ СОВЕТСКИЙ, 7</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236022, Калининградская обл, Калининград г, ПР-КТ СОВЕТСКИЙ, 7</orgFactAddress>
+                <contactPerson>
+                    <lastName>Хамитов</lastName>
+                    <firstName>Вадим</firstName>
+                    <middleName>Маратович</middleName>
+                </contactPerson>
+                <contactEMail>uvd.konkurstorg@mail.ru</contactEMail>
+                <contactPhone>7-4012-551662</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_EETP</code>
+            <name>АО «ЕЭТП»</name>
+            <url>http://roseltorg.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-09-09T17:15:30+02:00</startDate>
+                <place>Заявка на участие в аукционе направляется участником аукциона оператору электронной площадки, указанной в настоящей документации</place>
+                <order>Указан в разделе 1 «Электронный аукцион (общие условия проведения аукциона)» настоящей документации</order>
+                <endDate>2020-09-17T09:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-09-18T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-09-21T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>322115.95</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03351000108</regNum>
+                        <consRegistryNum>00112819</consRegistryNum>
+                        <fullName>УПРАВЛЕНИЕ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КАЛИНИНГРАДСКОЙ ОБЛАСТИ</fullName>
+                    </customer>
+                    <maxPrice>322115.95</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <deliveryPlace>236029, Российская Федерация, Калининградская область, г. Калининград, ул. Генерал-лейтенанта Озерова, дом 33 (Объединенный склад МТИ ФКУ «ЦХ и СО УМВД России по Калининградской области»)</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>в течение 30 (тридцати) дней с даты заключения контракта</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>96634.79</amount>
+                        <part>30.0</part>
+                        <procedureInfo>Исполнение контракта, гарантийные обязательства могут обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Закона № 44-ФЗ «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд», или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта, гарантийных обязательств, срок действия банковской гарантии определяются в соответствии с требованиями Закона № 44-ФЗ участником закупки, с которым заключается контракт, самостоятельно. При этом срок действия банковской гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой банковской гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Закона №44-ФЗ.
+Реквизиты заказчика для перечисления денежных средств в качестве обеспечения исполнения контракта (в случае выбора такого способа обеспечения):
+УФК по Калининградской области (Управление Министерства внутренних дел Российской Федерации по Калининградской области л/сч 05351128190) 
+ИНН 3904020768 КПП 390601001
+Банк: Отделение по Калининградской области Северо-Западного главного управления Центрального банка Российской Федерации
+Р/сч 40302810340301004001 
+БИК 042748001
+В наименовании платежа указать: «Обеспечение исполнения контракта, гарантийных обязательств на (указать предмет контракта) _______________извещение №___».
+Подтверждением внесения денежных средств является платежное поручение поставщика (подрядчика, исполнителя) принятое к исполнению банком</procedureInfo>
+                        <settlementAccount>40302810000001000001</settlementAccount>
+                        <personalAccount>05351128190</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <provisionWarranty>
+                        <ns3:amount>16105.8</ns3:amount>
+                        <ns3:part>5.0</ns3:part>
+                        <ns3:procedureInfo>Исполнение контракта, гарантийные обязательства могут обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям статьи 45 Закона № 44-ФЗ «О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд», или внесением денежных средств на указанный заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими заказчику. Способ обеспечения исполнения контракта, гарантийных обязательств, срок действия банковской гарантии определяются в соответствии с требованиями Закона № 44-ФЗ участником закупки, с которым заключается контракт, самостоятельно. При этом срок действия банковской гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой банковской гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Закона №44-ФЗ.
+Реквизиты заказчика для перечисления денежных средств в качестве обеспечения исполнения контракта (в случае выбора такого способа обеспечения):
+УФК по Калининградской области (Управление Министерства внутренних дел Российской Федерации по Калининградской области л/сч 05351128190) 
+ИНН 3904020768 КПП 390601001
+Банк: Отделение по Калининградской области Северо-Западного главного управления Центрального банка Российской Федерации
+Р/сч 40302810340301004001 
+БИК 042748001
+В наименовании платежа указать: «Обеспечение исполнения контракта, гарантийных обязательств на (указать предмет контракта) _______________извещение №___».
+Подтверждением внесения денежных средств является платежное поручение поставщика (подрядчика, исполнителя) принятое к исполнению банком</ns3:procedureInfo>
+                        <ns3:account>
+                            <ns3:bik>042748001</ns3:bik>
+                            <ns3:settlementAccount>40302810000001000001</ns3:settlementAccount>
+                            <ns3:personalAccount>05351128190</ns3:personalAccount>
+                        </ns3:account>
+                    </provisionWarranty>
+                    <purchaseCode>201390402076839060100101770011723244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>17.23</ns4:OKPDCode>
+                                <ns4:OKPDName>Принадлежности канцелярские бумажные</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>13904020768390601001</customerCode>
+                        <purchaseNumber>0177</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003351000108001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003351000108001000246</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Федеральный бюджет</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>322115.95</total>
+                                <currentYear>322115.95</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <budgetFinancings>
+                            <currentYear>2020</currentYear>
+                            <budgetFinancing>
+                                <KBKCode>18803020840390049244</KBKCode>
+                                <KBKYearsInfo>
+                                    <total>322115.95</total>
+                                    <currentYear>322115.95</currentYear>
+                                    <firstYear>0</firstYear>
+                                    <secondYear>0</secondYear>
+                                    <subsecYears>0</subsecYears>
+                                </KBKYearsInfo>
+                            </budgetFinancing>
+                            <totalSum>644231.90</totalSum>
+                        </budgetFinancings>
+                    </contractExecutionPaymentPlan>
+                    <BOInfo>
+                        <BONumber>0011281920000000261</BONumber>
+                        <BODate>2020-09-09T00:00:00+03:00</BODate>
+                        <inputBOFlag>auto</inputBOFlag>
+                    </BOInfo>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета заявлений о выдаче разрешений на временное проживание в Российской Федерации. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета заявлений о выдаче разрешений на временное проживание в Российской Федерации. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>3476.65</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета дел временно проживающих иностранных граждан и лиц без гражданства. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета дел временно проживающих иностранных граждан и лиц без гражданства. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>3476.65</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета заявлений о выдаче вида на жительство в Российской Федерации. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета заявлений о выдаче вида на жительство в Российской Федерации. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>3476.65</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета дел постоянно проживающих иностранных граждан и лиц без гражданства. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета дел постоянно проживающих иностранных граждан и лиц без гражданства. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>8</value>
+                    </quantity>
+                    <sum>5562.64</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета бланков видов на жительство иностранных граждан в Российской Федерации. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета бланков видов на жительство иностранных граждан в Российской Федерации. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>8</value>
+                    </quantity>
+                    <sum>5562.64</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета поступления бланков видов на жительство, содержащих электронный носитель информации, и выдачи их заявителям. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета поступления бланков видов на жительство, содержащих электронный носитель информации, и выдачи их заявителям. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>3476.65</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета заявлений об обмене вида на жительство. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета заявлений об обмене вида на жительство. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                    <sum>3476.65</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета бланков разрешений на временное проживание ЛБГ в РФ. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета бланков разрешений на временное проживание ЛБГ в РФ. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1390.66</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета заявлений о выдаче вида на жительство взамен утраченного. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета заявлений о выдаче вида на жительство взамен утраченного. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>2085.99</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета поступления виз и выдачи их иностранным гражданам и лицам без гражданства. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета поступления виз и выдачи их иностранным гражданам и лицам без гражданства. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>2085.99</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета принятых визовых анкет. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета принятых визовых анкет. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                    <sum>1390.66</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета принятых ходатайств о выдаче приглашений на въезд в Российскую Федерацию. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета принятых ходатайств о выдаче приглашений на въезд в Российскую Федерацию. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>2781.32</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета уведомлений о прибытии иностранного гражданина или лица без гражданства в место пребывания. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета уведомлений о прибытии иностранного гражданина или лица без гражданства в место пребывания. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>496.66</price>
+                    <quantity>
+                        <value>40</value>
+                    </quantity>
+                    <sum>19866.4</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета заявлений об участии в Государственной программе по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета заявлений об участии в Государственной программе по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом. Формат А4, не менее 200 листов, книжная ориентация. Внутренний блок: материал - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом), сшивка блока втачку. Титульный лист - наличие. Обложка - твердый переплет. Переплетная крышка составная с окантованными накладными сторонками и корешком, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. Возможность оклеивания обложки цветной бумагой с печатью наименования журнала по запросу Заказчика.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>2085.99</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о выдаче разрешения на временное проживание иностранному гражданину, не достигшему 18 - летнего возраста, либо иностранному гражданину, признанному недееспособным или ограниченному в дееспособности. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о выдаче разрешения на временное проживание иностранному гражданину, не достигшему 18 - летнего возраста, либо иностранному гражданину, признанному недееспособным или ограниченному в дееспособности. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.79</price>
+                    <quantity>
+                        <value>500</value>
+                    </quantity>
+                    <sum>895</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о выдаче разрешения на временное проживание. Формат А3, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1+1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о выдаче разрешения на временное проживание. Формат А3, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1+1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>7.94</price>
+                    <quantity>
+                        <value>500</value>
+                    </quantity>
+                    <sum>3970</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о выдаче вида на жительство иностранному гражданину, не достигшему 18 - летнего возраста, либо иностранному гражданину, признанному недееспособным или ограниченному в дееспособности. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1+0 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о выдаче вида на жительство иностранному гражданину, не достигшему 18 - летнего возраста, либо иностранному гражданину, признанному недееспособным или ограниченному в дееспособности. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3.97</price>
+                    <quantity>
+                        <value>500</value>
+                    </quantity>
+                    <sum>1985</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о выдаче вида на жительство. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1+0 (текст и таблицы нанесены черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о выдаче вида на жительство. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3.97</price>
+                    <quantity>
+                        <value>500</value>
+                    </quantity>
+                    <sum>1985</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о замене вида на жительство. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о замене вида на жительство. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.14</price>
+                    <quantity>
+                        <value>1500</value>
+                    </quantity>
+                    <sum>1710</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о выдаче вида на жительство высококвалифицированному специалисту (членам его семьи). Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о выдаче вида на жительство высококвалифицированному специалисту (членам его семьи). Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3.43</price>
+                    <quantity>
+                        <value>50</value>
+                    </quantity>
+                    <sum>171.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Визовая анкета. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Визовая анкета. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2.67</price>
+                    <quantity>
+                        <value>200</value>
+                    </quantity>
+                    <sum>534</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Ходатайство о выдаче приглашения на въезд в Российскую Федерацию от приглашающей организации. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Ходатайство о выдаче приглашения на въезд в Российскую Федерацию от приглашающей организации. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2.67</price>
+                    <quantity>
+                        <value>200</value>
+                    </quantity>
+                    <sum>534</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Ходатайство о выдаче приглашения на въезд в Российскую Федерацию от приглашаемого лица. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Ходатайство о выдаче приглашения на въезд в Российскую Федерацию от приглашаемого лица. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.98</price>
+                    <quantity>
+                        <value>500</value>
+                    </quantity>
+                    <sum>990</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Гарантийное письмо от приглашаемой организации. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Гарантийное письмо от приглашаемой организации. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.91</price>
+                    <quantity>
+                        <value>100</value>
+                    </quantity>
+                    <sum>191</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Гарантийное письмо от приглашаемого лица. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Гарантийное письмо от приглашаемого лица. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.33</price>
+                    <quantity>
+                        <value>500</value>
+                    </quantity>
+                    <sum>665</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о выплате участнику государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, и (или) членам его семьи пособия на обустройство. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о выплате участнику государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, и (или) членам его семьи пособия на обустройство. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.46</price>
+                    <quantity>
+                        <value>1000</value>
+                    </quantity>
+                    <sum>1460</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о выплате участнику государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, и (или) членам его семьи компенсации расходов на оплату государственной пошлины за оформление документов, определяющих правовой статус переселенцев на территории Российской Федерации.  Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о выплате участнику государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, и (или) членам его семьи компенсации расходов на оплату государственной пошлины за оформление документов, определяющих правовой статус переселенцев на территории Российской Федерации.  Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.46</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>2920</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о выплате участнику государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, и (или) членам его семьи компенсации расходов на переезд к будущему месту проживания. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о выплате участнику государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, и (или) членам его семьи компенсации расходов на переезд к будущему месту проживания. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.46</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>2920</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Расписка в получении вида на жительство Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Расписка в получении вида на жительство Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.14</price>
+                    <quantity>
+                        <value>1000</value>
+                    </quantity>
+                    <sum>1140</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Расписка в получении разрешения на временное проживание Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Расписка в получении разрешения на временное проживание Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2.03</price>
+                    <quantity>
+                        <value>1000</value>
+                    </quantity>
+                    <sum>2030</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Справка о приеме заявления об участии в Государственной программе по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом к рассмотрению Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Справка о приеме заявления об участии в Государственной программе по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом к рассмотрению Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.33</price>
+                    <quantity>
+                        <value>1000</value>
+                    </quantity>
+                    <sum>1330</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о предоставлении временного убежища на территории Российской Федерации Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о предоставлении временного убежища на территории Российской Федерации Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2.53</price>
+                    <quantity>
+                        <value>50</value>
+                    </quantity>
+                    <sum>126.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о продлении временного убежища Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о продлении временного убежища Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2.53</price>
+                    <quantity>
+                        <value>50</value>
+                    </quantity>
+                    <sum>126.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Памятка участника госпрограммы Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Памятка участника госпрограммы Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.05</price>
+                    <quantity>
+                        <value>1000</value>
+                    </quantity>
+                    <sum>1050</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о замене свидетельства участника Государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о замене свидетельства участника Государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.4</price>
+                    <quantity>
+                        <value>300</value>
+                    </quantity>
+                    <sum>420</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Расписка  о принятии заявления о выплате участнику Государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, компенсации расходов на переезд к будущему месту проживания к рассмотрению Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом</addCharacteristics>
+                    </OKPD2>
+                    <name>Расписка  о принятии заявления о выплате участнику Государственной программы по оказанию содействия добровольному переселению в Российскую Федерацию соотечественников, проживающих за рубежом, компенсации расходов на переезд к будущему месту проживания к рассмотрению Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.05</price>
+                    <quantity>
+                        <value>1000</value>
+                    </quantity>
+                    <sum>1050</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о выдаче (замене) паспорта по форме № 1П
+Формат А5 (210х148), бумага офсетная белая перфокарточная плотностью не менее 160 гр/м2, офсетная печать, цветность 1+1 (текст нанесен черным цветом)
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о выдаче (замене) паспорта по форме № 1П
+Формат А5 (210х148), бумага офсетная белая перфокарточная плотностью не менее 160 гр/м2, офсетная печать, цветность 1+1 (текст нанесен черным цветом)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>0.94</price>
+                    <quantity>
+                        <value>20000</value>
+                    </quantity>
+                    <sum>18800</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.141</code>
+                        <name>Бланки личных документов строгого учета</name>
+                        <addCharacteristics>Временное удостоверение личности гражданина РФ  по форме № 2П
+Формат 176х125, бумага офсетная белая перфокарточная плотностью не менее 160 гр/м2, офсетная печать, цветность 1+1 (текст нанесен черным цветом)
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Временное удостоверение личности гражданина РФ  по форме № 2П
+Формат 176х125, бумага офсетная белая перфокарточная плотностью не менее 160 гр/м2, офсетная печать, цветность 1+1 (текст нанесен черным цветом)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>0.99</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>1980</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал регистрации заявлений граждан об утрате (похищении) паспорта
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал регистрации заявлений граждан об утрате (похищении) паспорта
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>551.66</price>
+                    <quantity>
+                        <value>23</value>
+                    </quantity>
+                    <sum>12688.18</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета временных удостоверений личности гражданина
+Российской Федерации
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета временных удостоверений личности гражданина
+Российской Федерации
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>551.66</price>
+                    <quantity>
+                        <value>23</value>
+                    </quantity>
+                    <sum>12688.18</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Уведомление о выдаче свидетельства участника Государственной программы по оказанию содействия добровольному переселению в Российскую
+Федерацию соотечественников, проживающих за рубежом Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Уведомление о выдаче свидетельства участника Государственной программы по оказанию содействия добровольному переселению в Российскую
+Федерацию соотечественников, проживающих за рубежом Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.33</price>
+                    <quantity>
+                        <value>1000</value>
+                    </quantity>
+                    <sum>1330</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Уведомление об отказе в выдаче свидетельства участника Государственной программы по оказанию содействия добровольному переселению в Российскую
+Федерацию соотечественников, проживающих за рубежом Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Уведомление об отказе в выдаче свидетельства участника Государственной программы по оказанию содействия добровольному переселению в Российскую
+Федерацию соотечественников, проживающих за рубежом Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст и таблицы нанесены черным цветом</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.91</price>
+                    <quantity>
+                        <value>100</value>
+                    </quantity>
+                    <sum>191</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.130</code>
+                        <name>Скоросшиватели (папки) из бумаги или картона</name>
+                        <addCharacteristics>Мягкие обложки для дел. Формат 550х320 мм в развороте, картон односторонний белый плотностью не менее 270 гр. м/2, цветность 1+0 (текст нанесен черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Мягкие обложки для дел. Формат 550х320 мм в развороте, картон односторонний белый плотностью не менее 270 гр. м/2, цветность 1+0 (текст нанесен черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>6.62</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>13240</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.130</code>
+                        <name>Скоросшиватели (папки) из бумаги или картона</name>
+                        <addCharacteristics>Мягкие обложки для дел. Формат 550х320 мм в развороте, картон односторонний белый плотностью не менее 270 гр м/2, цветность 1+0 (текст нанесен черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Мягкие обложки для дел. Формат 550х320 мм в развороте, картон односторонний белый плотностью не менее 270 гр м/2, цветность 1+0 (текст нанесен черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>6.62</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>13240</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.130</code>
+                        <name>Скоросшиватели (папки) из бумаги или картона</name>
+                        <addCharacteristics>Твердые обложки для дел. Формат 320х230 мм в сложенном виде, картон толщиной не менее 1,8 мм оклеен цветной бумагой плотностью не менее 80 гр/м2 с печатью наименования обложки. Корешок оклеен бумвинилом, ширина корешка 50±1 мм, внутри корешка - 2 клапана формата 320х30 мм, изготовленных из картона толщиной не менее 1 мм, оклеенного бумвинилом.</addCharacteristics>
+                    </OKPD2>
+                    <name>Твердые обложки для дел. Формат 320х230 мм в сложенном виде, картон толщиной не менее 1,8 мм оклеен цветной бумагой плотностью не менее 80 гр/м2 с печатью наименования обложки. Корешок оклеен бумвинилом, ширина корешка 50±1 мм, внутри корешка - 2 клапана формата 320х30 мм, изготовленных из картона толщиной не менее 1 мм, оклеенного бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>154.33</price>
+                    <quantity>
+                        <value>50</value>
+                    </quantity>
+                    <sum>7716.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета поступления бланков паспорта и выдачи паспортов гражданам
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать, 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета поступления бланков паспорта и выдачи паспортов гражданам
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать, 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>496.66</price>
+                    <quantity>
+                        <value>25</value>
+                    </quantity>
+                    <sum>12416.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о регистрации по месту пребывания форма № 1
+Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом).
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о регистрации по месту пребывания форма № 1
+Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>0.99</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>1980</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о регистрации по месту жительства  форма № 6
+Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом).
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о регистрации по месту жительства  форма № 6
+Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>0.99</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>1980</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета заявлений о регистрации по месту жительства и выдачи свидетельств о регистрации по месту жительства
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета заявлений о регистрации по месту жительства и выдачи свидетельств о регистрации по месту жительства
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>496.66</price>
+                    <quantity>
+                        <value>25</value>
+                    </quantity>
+                    <sum>12416.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета принятых к расмотрению заявлений об изменении гражданства и бланков с текстом присяги гражданина РФ Пр. МВД РФ № 711-26.10.2018 приложение. Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, альбомный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом. </addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета принятых к расмотрению заявлений об изменении гражданства и бланков с текстом присяги гражданина РФ Пр. МВД РФ № 711-26.10.2018 приложение. Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, альбомный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>496.66</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>4966.6</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о приеме в гражданство Российской Федерации приложение № 1 к положению о порядке рассмотрения вопросов гражданства РФ (в ред. Указа президента РФ от 19.09.2019 № 464). Формат А3, комплект состоит из 2 (двух) листов, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о приеме в гражданство Российской Федерации приложение № 1 к положению о порядке рассмотрения вопросов гражданства РФ (в ред. Указа президента РФ от 19.09.2019 № 464). Формат А3, комплект состоит из 2 (двух) листов, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>5.07</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>10140</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о приеме в гражданство Российской Федерации приложение к Указу Президента РФ от 29.04.2019 № 187. Формат А3, комплект состоит из 1 (одного) листа, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о приеме в гражданство Российской Федерации приложение к Указу Президента РФ от 29.04.2019 № 187. Формат А3, комплект состоит из 1 (одного) листа, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2.92</price>
+                    <quantity>
+                        <value>300</value>
+                    </quantity>
+                    <sum>876</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Уведомление о прекращении (расторжении) трудового договора или гражданско-правового договора на выполнение работ. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Уведомление о прекращении (расторжении) трудового договора или гражданско-правового договора на выполнение работ. Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.98</price>
+                    <quantity>
+                        <value>500</value>
+                    </quantity>
+                    <sum>990</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Уведомление о заключении трудового договора или гражданско-правового договора на выполнение работ Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Уведомление о заключении трудового договора или гражданско-правового договора на выполнение работ Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+1 (текст и таблицы нанесены черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.98</price>
+                    <quantity>
+                        <value>500</value>
+                    </quantity>
+                    <sum>990</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Справка о приеме документов Формат А5, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст нанесен черным цветом). </addCharacteristics>
+                    </OKPD2>
+                    <name>Справка о приеме документов Формат А5, бумага офсетная белая плотностью не менее 80 гр/м2, печать 1+0 (текст нанесен черным цветом).</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>0.52</price>
+                    <quantity>
+                        <value>2000</value>
+                    </quantity>
+                    <sum>1040</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал  учета заявлений о регистрации по месту пребывания и выдачи свидетельств о регистрации по месту пребывания
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал  учета заявлений о регистрации по месту пребывания и выдачи свидетельств о регистрации по месту пребывания
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>496.66</price>
+                    <quantity>
+                        <value>25</value>
+                    </quantity>
+                    <sum>12416.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Книга выдачи бланков 
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Книга выдачи бланков 
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>551.66</price>
+                    <quantity>
+                        <value>23</value>
+                    </quantity>
+                    <sum>12688.18</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал выдачи паспортов гражданина Российской Федерации, удостоверяющих личность гражданина российской федерации за пределами территории Российской Федерации, содержащих электронный носитель информации
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал выдачи паспортов гражданина Российской Федерации, удостоверяющих личность гражданина российской федерации за пределами территории Российской Федерации, содержащих электронный носитель информации
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>496.66</price>
+                    <quantity>
+                        <value>25</value>
+                    </quantity>
+                    <sum>12416.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление о несогласии на выезд из Российской Федерации несовершеннолетнего гражданина Российской Федерации Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом)</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление о несогласии на выезд из Российской Федерации несовершеннолетнего гражданина Российской Федерации Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.33</price>
+                    <quantity>
+                        <value>400</value>
+                    </quantity>
+                    <sum>532</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета заявлений о несогласии на выезд из Российской Федерации несовершеннолетнего гражданина Российской Федерации
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1 (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета заявлений о несогласии на выезд из Российской Федерации несовершеннолетнего гражданина Российской Федерации
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1 (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>551.66</price>
+                    <quantity>
+                        <value>23</value>
+                    </quantity>
+                    <sum>12688.18</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление  о проведении добровольной государственной   дактилоскопической регистрации
+Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление  о проведении добровольной государственной   дактилоскопической регистрации
+Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.33</price>
+                    <quantity>
+                        <value>300</value>
+                    </quantity>
+                    <sum>399</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление  о внесении изменений в дактилоскопическую информацию  о заявителе, прошедшем добровольную государственную      дактилоскопическую регистрацию
+Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом)
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление  о внесении изменений в дактилоскопическую информацию  о заявителе, прошедшем добровольную государственную      дактилоскопическую регистрацию
+Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>1.39</price>
+                    <quantity>
+                        <value>100</value>
+                    </quantity>
+                    <sum>139</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Заявление об уничтожении дактилоскопической информации о заявителе, прошедшем добровольную государственную дактилоскопическую регистрацию 
+Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом)
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Заявление об уничтожении дактилоскопической информации о заявителе, прошедшем добровольную государственную дактилоскопическую регистрацию 
+Формат А4, бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>2.53</price>
+                    <quantity>
+                        <value>50</value>
+                    </quantity>
+                    <sum>126.5</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Адресная справка (на районном уровне)
+Формат А5 (210х150), бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Адресная справка (на районном уровне)
+Формат А5 (210х150), бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>0.49</price>
+                    <quantity>
+                        <value>10000</value>
+                    </quantity>
+                    <sum>4900</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета заявлений о предоставлении государственной услуги по проведению добровольной государственной дактилоскопической регистрации в Российской Федерации
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1 (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета заявлений о предоставлении государственной услуги по проведению добровольной государственной дактилоскопической регистрации в Российской Федерации
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1 (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>551.66</price>
+                    <quantity>
+                        <value>23</value>
+                    </quantity>
+                    <sum>12688.18</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета жалоб на решения и действия (бездействие) территориального органа МВД России на районном уровне, а также его должностных лиц
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета жалоб на решения и действия (бездействие) территориального органа МВД России на районном уровне, а также его должностных лиц
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>551.66</price>
+                    <quantity>
+                        <value>23</value>
+                    </quantity>
+                    <sum>12688.18</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета поступивших заявлений (уведомлений о выявленных противоречиях) (на районном уровне)
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета поступивших заявлений (уведомлений о выявленных противоречиях) (на районном уровне)
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>551.66</price>
+                    <quantity>
+                        <value>10</value>
+                    </quantity>
+                    <sum>5516.6</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.143</code>
+                        <name>Бланки форм учетной и отчетной документации</name>
+                        <addCharacteristics>Адресная справка (односторонняя)
+Формат А5 (210х150), бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Адресная справка (односторонняя)
+Формат А5 (210х150), бумага офсетная белая плотностью не менее 80 гр/м2, печать офсетная, цветность 1+0 (текст и таблицы нанесены черным цветом</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>0.46</price>
+                    <quantity>
+                        <value>20000</value>
+                    </quantity>
+                    <sum>9200</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета поступивших запросов
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета поступивших запросов
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>7</value>
+                    </quantity>
+                    <sum>4867.31</sum>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>17.23.13.110</code>
+                        <name>Журналы регистрационные из бумаги или картона</name>
+                        <addCharacteristics>Журнал учета адресно-справочной информации, предоставленной по телефону
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага 50офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.
+</addCharacteristics>
+                    </OKPD2>
+                    <name>Журнал учета адресно-справочной информации, предоставленной по телефону
+Формат А4, не менее 200 листов, сброшюрован тетрадными блоками, книжный разворот, внутренний блок - бумага 50офсетная белая плотностью не менее 80 гр/м2, печать 0+1, 1+1, в лево в право  (текст и таблицы нанесены черным цветом). Титульный лист - наличие. Обложка - твердый переплет тип №9, материал - картон толщиной не менее 1,8 мм, оклеенный бумагой плотностью не менее 80 гр/м2 с печатью наименования журнала, корешок оклеен бумвинилом.</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>695.33</price>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                    <sum>2781.32</sum>
+                </purchaseObject>
+                <totalSum>322115.95</totalSum>
+            </purchaseObjects>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                </requirement>
+            </requirements>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>6F1BDA9E63F645C18394A2A2C3DF599D</publishedContentId>
+                <fileName>Документация.docx</fileName>
+                <fileSize>274.84 Кб</fileSize>
+                <docDescription>Документация.docx</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=6F1BDA9E63F645C18394A2A2C3DF599D</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>true</modifiable>
+            <clarificationInfo>
+                <startDate>2020-09-09T00:00:00+02:00</startDate>
+                <filledManuallyStartDate>true</filledManuallyStartDate>
+                <endDate>2020-09-16T18:00:00+02:00</endDate>
+                <deliveryProcedure>Указан в разделе 1 «Электронный аукцион (общие условия проведения электронного аукциона)» настоящей документации.</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/viewXml.html?noticeId=24531254</ns3:url>
+                <ns3:signature type="CAdES-BES">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</ns3:signature>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

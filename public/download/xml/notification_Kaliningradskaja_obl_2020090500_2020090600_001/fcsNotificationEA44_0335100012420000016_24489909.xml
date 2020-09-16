@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2">
+        <id>24489909</id>
+        <purchaseNumber>0335100012420000016</purchaseNumber>
+        <docPublishDate>2020-09-05T14:37:25.541+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0335100012420000016</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/viewXml.html?noticeId=24489909</url>
+            <signature type="CAdES-BES">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</signature>
+        </printForm>
+        <purchaseObjectInfo>Поставка запасных частей автомобильной техники для нужд войсковой части 2659</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>03351000124</regNum>
+                <consRegistryNum>001D1829</consRegistryNum>
+                <fullName>ВОЙСКОВАЯ ЧАСТЬ 2659</fullName>
+                <postAddress>Российская Федерация, 236014, Калининградская обл, Калининград г, УЛИЦА КРАСНАЯ, 226/-, -</postAddress>
+                <factAddress>Российская Федерация, 236014, Калининградская обл, Калининград г, УЛИЦА КРАСНАЯ, 226/-, -</factAddress>
+                <INN>3904020285</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236014, Калининградская обл, Калининград г, УЛИЦА КРАСНАЯ, 226/-, -</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236014, Калининградская обл, Калининград г, УЛИЦА КРАСНАЯ, 226/-, -</orgFactAddress>
+                <contactPerson>
+                    <lastName>Кащеев</lastName>
+                    <firstName>Сергей</firstName>
+                    <middleName>Владимирович</middleName>
+                </contactPerson>
+                <contactEMail>BCH2659@yandex.ru</contactEMail>
+                <contactPhone>8-4012-910736</contactPhone>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_SBAST</code>
+            <name>АО «Сбербанк-АСТ»</name>
+            <url>http://www.sberbank-ast.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-09-05T14:37:25+02:00</startDate>
+                <place>заявки направляются оператору электронной площадки по адресу электронной площадки в информационно-телекоммуникационной сети «Интернет» http:// www.sberbank-ast.ru</place>
+                <order>Подача заявок осуществляется только лицами, получившими аккредитацию на электронной площадке. Участник не вправе подать заявку на участие в аукционе, если до даты окончания срока его аккредитации осталось менее трех месяцев. Заявка на участие подается в любое время с момента размещения извещения до даты и времени окончания срока подачи заявок. Заявка состоит из двух частей и направляется участником оператору электронной площадки в форме двух электронных документов, каждый из которых содержит одну часть заявки. Указанные электронные документы подаются одновременно и должны быть подписаны усиленной электронной подписью лица, имеющего право действовать от имени участника аукциона. Участник вправе подать только одну заявку на участие в электронном аукционе в отношении каждого объекта закупки.</order>
+                <endDate>2020-09-14T09:00:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-09-14T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-09-15T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>128565</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>03351000124</regNum>
+                        <consRegistryNum>001D1829</consRegistryNum>
+                        <fullName>ВОЙСКОВАЯ ЧАСТЬ 2659</fullName>
+                    </customer>
+                    <maxPrice>128565</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>C</kladrType>
+                                <kladrCode>39000001000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл, Калининград г</fullName>
+                            </kladr>
+                            <deliveryPlace>Калининградская область, г. Калининград, ул. Красная, д. 226, инд. 236023, Войсковая часть 2659</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>Поставка товара производится Поставщиком в полном объеме в течение 20 (двадцати) рабочих дней после подписания государственного контракта.</deliveryTerm>
+                    <contractGuarantee>
+                        <amount>6428.25</amount>
+                        <part>5.0</part>
+                        <procedureInfo>Обеспечение исполнения контракта и гарантийных обязательств могут обеспечиваться предоставлением банковской гарантии, выданной банком и соответствующей требованиям, установленным статьей 45 Федерального закона от 05.04.2013 № 44-ФЗ, или внесением денежных средств на указанный Заказчиком счет, на котором в соответствии с законодательством Российской Федерации учитываются операции со средствами, поступающими Заказчику. Способ обеспечения исполнения контракта и гарантийных обязательств определяется участником закупки, с которым заключается контракт, самостоятельно. При этом срок действия банковской гарантии должен превышать предусмотренный контрактом срок исполнения обязательств, которые должны быть обеспечены такой банковской гарантией, не менее чем на один месяц, в том числе в случае его изменения в соответствии со статьей 95 Федерального закона от 05.04.2013 № 44-ФЗ. </procedureInfo>
+                        <settlementAccount>40302810340301004001</settlementAccount>
+                        <personalAccount>05351D18290</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201390402028539060100100440014531244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>45.31</ns4:OKPDCode>
+                                <ns4:OKPDName>Услуги по оптовой торговле автомобильными деталями, узлами и принадлежностями</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>13904020285390601001</customerCode>
+                        <purchaseNumber>0044</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202003351000124001</ns3:plan2020Number>
+                        <ns3:position2020Number>202003351000124001000081</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>Федеральный бюджет на 2020 год</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>128565</total>
+                                <currentYear>128565</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <budgetFinancings>
+                            <currentYear>2020</currentYear>
+                            <budgetFinancing>
+                                <KBKCode>18003039990090049244</KBKCode>
+                                <KBKYearsInfo>
+                                    <total>128565</total>
+                                    <currentYear>128565</currentYear>
+                                    <firstYear>0</firstYear>
+                                    <secondYear>0</secondYear>
+                                    <subsecYears>0</subsecYears>
+                                </KBKYearsInfo>
+                            </budgetFinancing>
+                            <totalSum>257130</totalSum>
+                        </budgetFinancings>
+                    </contractExecutionPaymentPlan>
+                    <BOInfo>
+                        <BONumber>001D182920000000044</BONumber>
+                        <BODate>2020-09-03T00:00:00+03:00</BODate>
+                        <inputBOFlag>auto</inputBOFlag>
+                        <BORegistered>false</BORegistered>
+                    </BOInfo>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Герметик прокладочный</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Шланг вентиляции картерных газов ВАЗ-2170</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Комплект ГРМ с помпой ВАЗ-217030, 16 клапанов</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Главная пара ГАЗ-3309  41*9 зубьев  для двигателей ММЗ-Д245</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Рем. комплект фильтра грубой очистки масла КАМАЗ</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Фильтр топливный грубой очистки КАМАЗ в сборе с подогревом и датчиком воды</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Цилиндр тормозной передний ГАЗ-3307</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Шланг тормозной КАМАЗ L=560 мм (гайка-гайка)&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Рычаг стеклоочистителя КАМАЗ, 480 мм. (крючок 3*8)"</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Контроллер УАЗ</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Кран слива конденсата (бронза)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>20</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Генератор КАМАЗ 28В 90А</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Рем. комплект ступицы передней/задней УАЗ (127509) </name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Фара ГАЗ-3307 12V</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Оптический элемент ГАЗ-3307 (галоген)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>6</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Указатель напряжения ГАЗ-33081 ЕВРО-4</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Сальник задней ступицы ГАЗ-53, 3307</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Комплект шкворней с бронзовыми втулками УАЗ-ХАНТЕР (4 шт.)</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>5</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Ремонтный комплект рулевых тяг УАЗ-ХАНТЕР</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Рем комплект пружинной подвески УАЗ-ХАНТЕР</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Тормозные цилиндры задние ВАЗ Приора&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Тормозные колодки  задние ВАЗ Приора&#13;
+&#13;
+</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Тормозные диски передние УАЗ-ХАНТЕР&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Рукав</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Бачок расширительный в сборе</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Крышка головки цилиндров ГАЗ-3309</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Стакан головки блока цилиндров ГАЗ-3309&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>8</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Прокладка крышки головки ГАЗ-3309</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Прокладка клапанной крышки ГАЗ-3309&#13;
+</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Прокладка ГАЗ-3309</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>8</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Кольцо ГАЗ-3309 (биконит)</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>16</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Шайба ГАЗ-3309 резино-пробковая</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>16</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Ремень приводной</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>2</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Ремень приводной</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Ремень приводной</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>ВАЗ-2170 Диски R14 4*98 5J*14 ЕТ35</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>4</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Насос подъема кабины КАМАЗ</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>1</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Прокладка крышки клапанной</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>6</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Прокладка поддона ГАЗ-3307</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                </purchaseObject>
+                <purchaseObject>
+                    <OKPD2>
+                        <code>45.31.12.000</code>
+                        <name>Услуги по оптовой торговле прочими автомобильными деталями, узлами и принадлежностями</name>
+                    </OKPD2>
+                    <name>Комплект прокладок двигателя ГАЗ-3307&#13;
+</name>
+                    <OKEI>
+                        <code>839</code>
+                        <nationalCode>КОМПЛ</nationalCode>
+                        <fullName>Комплект</fullName>
+                    </OKEI>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                </purchaseObject>
+                <totalSum>0</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>MP44</shortName>
+                    <name>Субъектам малого предпринимательства, социально ориентированным некоммерческим организациям</name>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                </requirement>
+            </requirements>
+        </lot>
+        <notificationAttachments>
+            <attachment>
+                <publishedContentId>AE90F4A46E03BD20E0530F548D0AE8AA</publishedContentId>
+                <fileName>Документация аукцион на поставку запасных частей 128 565 тыс..doc</fileName>
+                <fileSize>646 Кб</fileSize>
+                <docDescription>Документация аукцион на поставку запасных частей 128 565 тыс.</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=AE90F4A46E03BD20E0530F548D0AE8AA</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </notificationAttachments>
+        <attachments>
+            <attachment>
+                <publishedContentId>AE8D3B5B2F989D25E0530F548D0A99D0</publishedContentId>
+                <fileName>Документация аукцион на поставку запасных частей 128 565 тыс..doc</fileName>
+                <fileSize>646 Кб</fileSize>
+                <docDescription>Документация аукцион на поставку запасных частей 128 565 тыс.</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=AE8D3B5B2F989D25E0530F548D0A99D0</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>false</modifiable>
+            <clarificationInfo>
+                <startDate>2020-09-05T14:37:25+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-09-10T09:00:00+02:00</endDate>
+                <deliveryProcedure>В течение двух дней с даты поступления от оператора электронной площадки запроса заказчик размещает в единой информационной системе разъяснения положений документации об электронном аукционе с указанием предмета запроса, но без указания участника такого аукциона, от которого поступил указанный запрос, при условии, что указанный запрос поступил заказчику не позднее чем за три дня до даты окончания срока подачи заявок на участие в таком аукционе.</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>true</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/viewXml.html?noticeId=24489909</ns3:url>
+                <ns3:signature type="CAdES-BES">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</ns3:signature>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>

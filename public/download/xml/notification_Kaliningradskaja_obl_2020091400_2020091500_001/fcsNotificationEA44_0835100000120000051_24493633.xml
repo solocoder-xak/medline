@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:export xmlns="http://zakupki.gov.ru/oos/types/1" xmlns:ns6="http://zakupki.gov.ru/oos/CPtypes/1" xmlns:ns5="http://zakupki.gov.ru/oos/TPtypes/1" xmlns:ns8="http://zakupki.gov.ru/oos/EPtypes/1" xmlns:ns7="http://zakupki.gov.ru/oos/pprf615types/1" xmlns:ns9="http://zakupki.gov.ru/oos/SMTypes/1" xmlns:ns11="http://zakupki.gov.ru/oos/control99/1" xmlns:ns10="http://zakupki.gov.ru/oos/printform/1" xmlns:ns2="http://zakupki.gov.ru/oos/export/1" xmlns:ns4="http://zakupki.gov.ru/oos/base/1" xmlns:ns3="http://zakupki.gov.ru/oos/common/1">
+    <ns2:fcsNotificationEF schemeVersion="10.2">
+        <id>24493633</id>
+        <purchaseNumber>0835100000120000051</purchaseNumber>
+        <docPublishDate>2020-09-14T13:02:45.505+02:00</docPublishDate>
+        <href>https://zakupki.gov.ru/epz/order/notice/ea44/view/common-info.html?regNumber=0835100000120000051</href>
+        <printForm>
+            <url>https://zakupki.gov.ru/epz/order/notice/printForm/viewXml.html?noticeId=24493633</url>
+            <signature type="CAdES-BES">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</signature>
+        </printForm>
+        <purchaseObjectInfo>Поставка стоматологических инструментов</purchaseObjectInfo>
+        <purchaseResponsible>
+            <responsibleOrg>
+                <regNum>08351000001</regNum>
+                <consRegistryNum>00173489</consRegistryNum>
+                <fullName>ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "МЕДИКО-САНИТАРНАЯ ЧАСТЬ № 39 ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ"</fullName>
+                <postAddress>Российская Федерация, 236010, Калининградская обл, Калининград г, УЛИЦА ЧКАЛОВА, ДОМ 7</postAddress>
+                <factAddress>Российская Федерация, 236010, Калининградская обл, Калининград г, УЛИЦА ЧКАЛОВА, ДОМ 7</factAddress>
+                <INN>3904040517</INN>
+                <KPP>390601001</KPP>
+            </responsibleOrg>
+            <responsibleRole>CU</responsibleRole>
+            <responsibleInfo>
+                <orgPostAddress>Российская Федерация, 236010, Калининградская обл, Калининград г, УЛИЦА ЧКАЛОВА, ДОМ 7</orgPostAddress>
+                <orgFactAddress>Российская Федерация, 236010, Калининградская обл, Калининград г, УЛИЦА ЧКАЛОВА, ДОМ 7</orgFactAddress>
+                <contactPerson>
+                    <lastName>Гибалов</lastName>
+                    <firstName>Кирилл</firstName>
+                    <middleName>Владимирович</middleName>
+                </contactPerson>
+                <contactEMail>snabfsin39@mail.ru</contactEMail>
+                <contactPhone>8-4012-306823</contactPhone>
+                <contactFax>8-4012-670229</contactFax>
+            </responsibleInfo>
+        </purchaseResponsible>
+        <placingWay>
+            <code>EAP44</code>
+            <name>Электронный аукцион</name>
+        </placingWay>
+        <contractConclusionOnSt83Ch2>true</contractConclusionOnSt83Ch2>
+        <ETP>
+            <code>ETP_EETP</code>
+            <name>АО «ЕЭТП»</name>
+            <url>http://roseltorg.ru</url>
+        </ETP>
+        <procedureInfo>
+            <collecting>
+                <startDate>2020-09-14T13:02:45+02:00</startDate>
+                <place>АО «Единая электронная площадка РОСЭЛТОРГ» https://etp.roseltorg.ru</place>
+                <order>Заявки на участие в электронном аукционе подают только лица, которые зарегистрированы в единой информационной системе и аккредитованы на электронной площадке с учетом действующего переходного периода в соответствии с ч. 50 ст. 112 Федерального закона от 05.04.2013 N 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд". Заявка направляется оператору электронной площадки в форме двух электронных документов, содержащих первую и вторую части заявки, в соответствии со ст. 66 Федерального закона от 05.04.2013 N 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд"</order>
+                <endDate>2020-09-23T09:01:00+02:00</endDate>
+            </collecting>
+            <scoring>
+                <date>2020-09-23T00:00:00+02:00</date>
+            </scoring>
+            <bidding>
+                <date>2020-09-24T00:00:00+02:00</date>
+            </bidding>
+        </procedureInfo>
+        <lot>
+            <maxPrice>235839.78</maxPrice>
+            <currency>
+                <code>RUB</code>
+                <name>Российский рубль</name>
+            </currency>
+            <quantityUndefined>false</quantityUndefined>
+            <customerRequirements>
+                <customerRequirement>
+                    <customer>
+                        <regNum>08351000001</regNum>
+                        <consRegistryNum>00173489</consRegistryNum>
+                        <fullName>ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ "МЕДИКО-САНИТАРНАЯ ЧАСТЬ № 39 ФЕДЕРАЛЬНОЙ СЛУЖБЫ ИСПОЛНЕНИЯ НАКАЗАНИЙ"</fullName>
+                    </customer>
+                    <maxPrice>235839.78</maxPrice>
+                    <mustPublicDiscussion>false</mustPublicDiscussion>
+                    <publicDiscussionInfo>
+                        <ns3:publicDiscussionNotInEIS>true</ns3:publicDiscussionNotInEIS>
+                    </publicDiscussionInfo>
+                    <kladrPlaces>
+                        <kladrPlace>
+                            <kladr>
+                                <kladrType>C</kladrType>
+                                <kladrCode>39000001000</kladrCode>
+                                <fullName>Российская Федерация, Калининградская обл, Калининград г</fullName>
+                            </kladr>
+                            <deliveryPlace>Российская Федерация, 236010,  &#13;
+г. Калининград, ул. Чкалова, д. 7.&#13;
+</deliveryPlace>
+                        </kladrPlace>
+                    </kladrPlaces>
+                    <deliveryTerm>В течение 30 дней с момента заключения государственного контракта</deliveryTerm>
+                    <contractGuarantee>
+                        <part>10.0</part>
+                        <procedureInfo>Обеспечение исполнения контракта предоставляется в виде банковской гарантии, или путем внесения на счет денежных средств.&#13;
+Банковская гарантия должна отвечать требованиям ст. ст. 45, 96 Федерального закона от 05.04.2013 N 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд", а также Дополнительным требованиям, утвержденным Постановлением Правительства РФ от 08.11.2013 N 1005.&#13;
+Она должна быть получена в банке, который соответствует требованиям Постановления Правительства РФ от 12.04.2018 N 440 и включен в реестр, предусмотренный ч. 1.2 ст. 45 указанного Закона.&#13;
+Способ обеспечения исполнения контракта определяется участником закупки самостоятельно. Контракт заключается после предоставления участником закупки обеспечения исполнения контракта. В случае непредоставления обеспечения исполнения контракта в срок, установленный для заключения контракта, такой участник считается уклонившимся от заключения контракта.&#13;
+Если предложенная победителем цена контракта на 25 и более процентов ниже начальной (максимальной) цены, контракт заключается только после предоставления обеспечения исполнения контракта в размере, превышающем в полтора раза размер обеспечения исполнения контракта, указанный в настоящем извещении, или после предоставления информации, подтверждающей добросовестность такого участника на дату подачи заявки в соответствии с ч. 3 ст. 37 Федерального закона от 05.04.2013 N 44-ФЗ "О контрактной системе в сфере закупок товаров, работ, услуг для обеспечения государственных и муниципальных нужд". Одновременно с такой информацией предоставляется обеспечение исполнения контракта в размере, указанном в настоящем извещении&#13;
+</procedureInfo>
+                        <settlementAccount>40302810000001000001</settlementAccount>
+                        <personalAccount>05351734890</personalAccount>
+                        <bik>042748001</bik>
+                    </contractGuarantee>
+                    <purchaseCode>201390404051739060100100870013250244</purchaseCode>
+                    <IKZInfo>
+                        <publishYear>2020</publishYear>
+                        <OKPD2Info>
+                            <ns3:OKPD2>
+                                <ns4:OKPDCode>32.50</ns4:OKPDCode>
+                                <ns4:OKPDName>Инструменты и оборудование медицинские</ns4:OKPDName>
+                            </ns3:OKPD2>
+                        </OKPD2Info>
+                        <KVRInfo>
+                            <ns3:KVR>
+                                <ns4:code>244</ns4:code>
+                                <ns4:name>Прочая закупка товаров, работ и услуг</ns4:name>
+                            </ns3:KVR>
+                        </KVRInfo>
+                        <customerCode>13904040517390601001</customerCode>
+                        <purchaseNumber>0087</purchaseNumber>
+                        <purchaseOrderNumber>001</purchaseOrderNumber>
+                    </IKZInfo>
+                    <tenderPlan2020Info>
+                        <ns3:plan2020Number>202008351000001001</ns3:plan2020Number>
+                        <ns3:position2020Number>202008351000001001000102</ns3:position2020Number>
+                    </tenderPlan2020Info>
+                    <contractExecutionPaymentPlan>
+                        <financingSourcesInfo>
+                            <financingSource>федеральный бюджет</financingSource>
+                            <currentYear>2020</currentYear>
+                            <financeInfo>
+                                <total>235839.78</total>
+                                <currentYear>235839.78</currentYear>
+                                <firstYear>0</firstYear>
+                                <secondYear>0</secondYear>
+                                <subsecYears>0</subsecYears>
+                            </financeInfo>
+                        </financingSourcesInfo>
+                        <budgetFinancings>
+                            <currentYear>2020</currentYear>
+                            <budgetFinancing>
+                                <KBKCode>32009014230190059244</KBKCode>
+                                <KBKYearsInfo>
+                                    <total>235839.78</total>
+                                    <currentYear>235839.78</currentYear>
+                                    <firstYear>0</firstYear>
+                                    <secondYear>0</secondYear>
+                                    <subsecYears>0</subsecYears>
+                                </KBKYearsInfo>
+                            </budgetFinancing>
+                            <totalSum>471679.56</totalSum>
+                        </budgetFinancings>
+                    </contractExecutionPaymentPlan>
+                    <BOInfo>
+                        <BONumber>0017348920000000104</BONumber>
+                        <BODate>2020-09-04T00:00:00+03:00</BODate>
+                        <inputBOFlag>auto</inputBOFlag>
+                    </BOInfo>
+                    <purchaseObjectDescription>Поставка стоматологических инструментов</purchaseObjectDescription>
+                </customerRequirement>
+            </customerRequirements>
+            <purchaseObjects>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов нижние, моляры 11-86A</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов нижние корневые</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов верхние, премоляры</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара </addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов нижние, резцы/клыки</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы N75 для удаления зубов клыков и премоляров</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы N19 для удаления зубов для верхних третьих моляров с зубчиками</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы N167 для удаления зубов нижних универсальные для моляров и премоляров с зубчиками</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы N145 для нижних корней с зубчиками</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В  КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов верхние, премоляры</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы N18 для удаления зубов для верхних левых моляров с зубчиками</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов нижние, корневые</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует характеристика товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов, нижние премоляры</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов верхние корневые 11-51</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественные</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы N33 для удаления зубов для нижних корней с зубчиками с анатомической ручкой</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественные</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов верхние, моляры левые 11-18</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов для 1-3 нижних моляров, правые</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов N38 для нижних резцов и клыков</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов прямые </qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов верхних универсальные</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов N74 для нижних корней с зубчиками. </qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов N79A для нижних восьмерок с зубчиками</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <purchaseObject>
+                    <KTRU>
+                        <code>32.50.11.000-00000044</code>
+                        <name>Щипцы для удаления зубов</name>
+                        <versionId>76763</versionId>
+                        <versionNumber>1</versionNumber>
+                        <characteristics>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Зубоврачебный хирургический инструмент в виде специальных щипцов для удаления зубов. Изделие многоразового использования</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>байонеты штыковидные для верхних корней с зубчиками. Изготовлены из высоколегированной коррозионноустойчивой медицинской стали.  Имеют форму соответствующую анатомическим особенностям отдельных зубов</qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <characteristicsUsingTextForm>
+                                <name>Качественная</name>
+                                <type>1</type>
+                                <values>
+                                    <value>
+                                        <qualityDescription>Щипцы для удаления зубов N51A </qualityDescription>
+                                    </value>
+                                </values>
+                            </characteristicsUsingTextForm>
+                            <addCharacteristicInfoReason>В КТРУ отсутствует описание товара</addCharacteristicInfoReason>
+                        </characteristics>
+                    </KTRU>
+                    <name>Щипцы для удаления зубов</name>
+                    <OKEI>
+                        <code>796</code>
+                        <nationalCode>ШТ</nationalCode>
+                        <fullName>Штука</fullName>
+                    </OKEI>
+                    <price>3573.33</price>
+                    <quantity>
+                        <value>3</value>
+                    </quantity>
+                    <sum>10719.99</sum>
+                    <isMedicalProduct>true</isMedicalProduct>
+                </purchaseObject>
+                <totalSum>235839.78</totalSum>
+            </purchaseObjects>
+            <preferenses>
+                <preferense>
+                    <shortName>MP44</shortName>
+                    <name>Субъектам малого предпринимательства, социально ориентированным некоммерческим организациям</name>
+                </preferense>
+            </preferenses>
+            <requirements>
+                <requirement>
+                    <shortName>ET44</shortName>
+                    <name>Единые требования к участникам (в соответствии с частью 1 Статьи 31 Федерального закона № 44-ФЗ)</name>
+                    <content>Установлены</content>
+                </requirement>
+                <requirement>
+                    <shortName>TR442</shortName>
+                    <name>Требования к участникам закупок в соответствии с частью 1.1 статьи 31 Федерального закона № 44-ФЗ</name>
+                    <content>Установлены</content>
+                </requirement>
+            </requirements>
+            <restrictions>
+                <restriction>
+                    <shortName>MB44330</shortName>
+                    <name>Закупка у субъектов малого предпринимательства и социально ориентированных некоммерческих организаций</name>
+                    <content>Установлено</content>
+                </restriction>
+                <restriction>
+                    <shortName>JB2149</shortName>
+                    <name>Запрет на допуск товаров, услуг при осуществлении закупок, а также ограничения и условия допуска в соответствии с требованиями, установленными статьей 14 Федерального закона № 44-ФЗ</name>
+                    <restrictionsSt14>
+                        <ns3:restrictionSt14>
+                            <ns3:requirementsType>
+                                <ns3:requirementType>
+                                    <ns3:type>RA</ns3:type>
+                                </ns3:requirementType>
+                                <ns3:requirementType>
+                                    <ns3:type>AC</ns3:type>
+                                </ns3:requirementType>
+                            </ns3:requirementsType>
+                            <ns3:NPAInfo>
+                                <ns4:code>11</ns4:code>
+                                <ns4:name>Постановление Правительства РФ от 05.02.2015 N 102 "Об ограничениях и условиях допуска отдельных видов медицинских изделий, происходящих из иностранных государств, для целей осуществления закупок для обеспечения государственных и муниципальных нужд"</ns4:name>
+                                <ns4:shortName>Постановление Правительства РФ от 05.02.2015 N 102</ns4:shortName>
+                            </ns3:NPAInfo>
+                        </ns3:restrictionSt14>
+                    </restrictionsSt14>
+                </restriction>
+            </restrictions>
+        </lot>
+        <attachments>
+            <attachment>
+                <publishedContentId>AF445F70E5DCD9DAE0530F548D0ABD83</publishedContentId>
+                <fileName>Извещение.doc</fileName>
+                <fileSize>90.5 Кб</fileSize>
+                <docDescription>Извещение</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=AF445F70E5DCD9DAE0530F548D0ABD83</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>AF44963A842E022AE0530F548D0A5000</publishedContentId>
+                <fileName>АД стоматологические инструменты 2020.docx</fileName>
+                <fileSize>233.71 Кб</fileSize>
+                <docDescription>АД стоматологические инструменты 2020</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=AF44963A842E022AE0530F548D0A5000</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">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</signature>
+                </cryptoSigns>
+            </attachment>
+            <attachment>
+                <publishedContentId>AF3FE90869208A40E0530F548D0AC884</publishedContentId>
+                <fileName>НМЦК.xlsx</fileName>
+                <fileSize>46.91 Кб</fileSize>
+                <docDescription>НМЦК</docDescription>
+                <url>https://zakupki.gov.ru/44fz/filestore/public/1.0/download/priz/file.html?uid=AF3FE90869208A40E0530F548D0AC884</url>
+                <cryptoSigns>
+                    <signature type="CAdES-BES">MIIWtQYJKoZIhvcNAQcCoIIWpjCCFqICAQExDjAMBggqhQMHAQECAgUAMAsGCSqGSIb3DQEHAaCCEigwggeYMIIHRaADAgECAgpiq3mVAAAAAAO2MAoGCCqFAwcBAQMCMIIBJDEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQGEwJSVTEYMBYGA1UECAwPNzcg0JzQvtGB0LrQstCwMRkwFwYDVQQHDBDQsy4g0JzQvtGB0LrQstCwMS4wLAYDVQQJDCXRg9C70LjRhtCwINCi0LLQtdGA0YHQutCw0Y8sINC00L7QvCA3MSwwKgYDVQQKDCPQnNC40L3QutC+0LzRgdCy0Y/Qt9GMINCg0L7RgdGB0LjQuDEYMBYGBSqFA2QBEg0xMDQ3NzAyMDI2NzAxMRowGAYIKoUDA4EDAQESDDAwNzcxMDQ3NDM3NTEsMCoGA1UEAwwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgwHhcNMjAwMjA1MTQwMjQ3WhcNMzUwMjA1MTQwMjQ3WjCCAW0xIDAeBgkqhkiG9w0BCQEWEXVjX2ZrQHJvc2them5hLnJ1MRkwFwYDVQQIDBDQsy4g0JzQvtGB0LrQstCwMRowGAYIKoUDA4EDAQESDDAwNzcxMDU2ODc2MDEYMBYGBSqFA2QBEg0xMDQ3Nzk3MDE5ODMwMWAwXgYDVQQJDFfQkdC+0LvRjNGI0L7QuSDQl9C70LDRgtC+0YPRgdGC0LjQvdGB0LrQuNC5INC/0LXRgNC10YPQu9C+0LosINC0LiA2LCDRgdGC0YDQvtC10L3QuNC1IDExFTATBgNVBAcMDNCc0L7RgdC60LLQsDELMAkGA1UEBhMCUlUxODA2BgNVBAoML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+MTgwNgYDVQQDDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjBmMB8GCCqFAwcBAQEBMBMGByqFAwICIwEGCCqFAwcBAQICA0MABED8bX8OMj0fD4hXXpf2mbS9MSPu4Tyu/zw4AB2YPt12ZG5gPoUuXj3Vmq8DEX3izuPkLaL9cLk4yQSElDqcpQj0o4IEAzCCA/8wEgYDVR0TAQH/BAgwBgEB/wIBADBSBgUqhQNkbwRJDEci0JrRgNC40L/RgtC+0J/RgNC+IENTUCIg0LLQtdGA0YHQuNGPIDQuMCAo0LjRgdC/0L7Qu9C90LXQvdC40LUgMi1CYXNlKTAlBgNVHSAEHjAcMAgGBiqFA2RxATAIBgYqhQNkcQIwBgYEVR0gADAOBgNVHQ8BAf8EBAMCAcYwggFlBgNVHSMEggFcMIIBWIAUwlTxtGvUTLfgbTa0I5Dx/sM8mwahggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ghBObUeLJvJ9ZX92jgJc49OTMB0GA1UdDgQWBBTQZJZtckDrWH0kf7sgW8/Djmx61DCBmAYDVR0fBIGQMIGNMC2gK6AphidodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjX2dvc3QxMi5jcmwwLaAroCmGJ2h0dHA6Ly9jb21wYW55LnJ0LnJ1L2NkcC9ndWNfZ29zdDEyLmNybDAtoCugKYYnaHR0cDovL3Jvc3RlbGVjb20ucnUvY2RwL2d1Y19nb3N0MTIuY3JsMEMGCCsGAQUFBwEBBDcwNTAzBggrBgEFBQcwAoYnaHR0cDovL3JlZXN0ci1wa2kucnUvY2RwL2d1Y19nb3N0MTIuY3J0MIH1BgUqhQNkcASB6zCB6Aw00J/QkNCa0JwgwqvQmtGA0LjQv9GC0L7Qn9GA0L4gSFNNwrsg0LLQtdGA0YHQuNC4IDIuMAxD0J/QkNCaIMKr0JPQvtC70L7QstC90L7QuSDRg9C00L7RgdGC0L7QstC10YDRj9GO0YnQuNC5INGG0LXQvdGC0YDCuww10JfQsNC60LvRjtGH0LXQvdC40LUg4oSWIDE0OS8zLzIvMi8yMyDQvtGCIDAyLjAzLjIwMTgMNNCX0LDQutC70Y7Rh9C10L3QuNC1IOKEliAxNDkvNy82LzEwNSDQvtGCIDI3LjA2LjIwMTgwCgYIKoUDBwEBAwIDQQBg7v+C0QPomAIsrt98MOueCAHIs4wZp+javlNqQ5T9oFKJ1INrXtyetN+VTDpEQ/xKs5ruj+18LCmRsskXaXoJMIIKiDCCCjWgAwIBAgIUI4RZO3lVqP6unRh+E1/3ObyIyPAwCgYIKoUDBwEBAwIwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4wHhcNMjAwMzAzMTAxMDI0WhcNMjEwNjAzMTAxMDI0WjCCAkgxGjAYBggqhQMDgQMBARIMMjQ2NTA4NDUxNjQ3MRYwFAYFKoUDZAMSCzA1NzYyNTc0MTg0MSAwHgYJKoZIhvcNAQkBFhFjbXNyX2tsZ0BpbmJveC5ydTELMAkGA1UEBhMCUlUxNjA0BgNVBAgMLdCa0LDQu9C40L3QuNC90LPRgNCw0LTRgdC60LDRjyDQvtCx0LvQsNGB0YLRjDGB6DCB5QYDVQQKDIHd0KTQldCU0JXQoNCQ0JvQrNCd0J7QlSDQmtCQ0JfQldCd0J3QntCVINCj0KfQoNCV0JbQlNCV0J3QmNCVINCX0JTQoNCQ0JLQntCe0KXQoNCQ0J3QldCd0JjQryAi0JzQldCU0JjQmtCeLdCh0JDQndCY0KLQkNCg0J3QkNCvINCn0JDQodCi0Kwg4oSWIDM5INCk0JXQlNCV0KDQkNCb0KzQndCe0Jkg0KHQm9Cj0JbQkdCrINCY0KHQn9Ce0JvQndCV0J3QmNCvINCd0JDQmtCQ0JfQkNCd0JjQmSIxLDAqBgNVBCoMI9Ce0LvRjNCz0LAg0JLQu9Cw0LTQuNC80LjRgNC+0LLQvdCwMR0wGwYDVQQEDBTQkNCx0LDRgNC90LjQutC+0LLQsDEwMC4GCSqGSIb3DQEJAhMhMS4yLjY0My4zLjYxLjEuMS42LjUwMjcxMC4zLjQuMi4xMUEwPwYDVQQDDDjQkNCx0LDRgNC90LjQutC+0LLQsCDQntC70YzQs9CwINCS0LvQsNC00LjQvNC40YDQvtCy0L3QsDBmMB8GCCqFAwcBAQEBMBMGByqFAwICJAAGCCqFAwcBAQICA0MABECwf5c2G7v08n3AI9znVSyxDbr0TwG9cYT8LaFlYjtiDGDIraIRYthFzzv3t6KtChEUL5v1lmusJ3vDp45Rrs+oo4IFxTCCBcEwDAYDVR0TAQH/BAIwADATBgNVHSAEDDAKMAgGBiqFA2RxATAoBgNVHREEITAfoB0GCiqFAwM9ntc2AQigDxMNMDgzNTEwMDAwMDAwNzA2BgUqhQNkbwQtDCsi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy0LXRgNGB0LjRjyA0LjApMIIBZAYFKoUDZHAEggFZMIIBVQxHItCa0YDQuNC/0YLQvtCf0YDQviBDU1AiINCy0LXRgNGB0LjRjyA0LjAgKNC40YHQv9C+0LvQvdC10L3QuNC1IDItQmFzZSkMaNCf0YDQvtCz0YDQsNC80LzQvdC+LdCw0L/Qv9Cw0YDQsNGC0L3Ri9C5INC60L7QvNC/0LvQtdC60YEgwqvQrtC90LjRgdC10YDRgi3Qk9Ce0KHQosK7LiDQktC10YDRgdC40Y8gMy4wDE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI0LTMzODAg0L7RgiAxMS4wNS4yMDE4DE/QodC10YDRgtC40YTQuNC60LDRgiDRgdC+0L7RgtCy0LXRgtGB0YLQstC40Y8g4oSWINCh0KQvMTI4LTM1ODEg0L7RgiAyMC4xMi4yMDE4MA4GA1UdDwEB/wQEAwID+DCCAacGA1UdJQSCAZ4wggGaBggrBgEFBQcDAgYPKoUDAz0BAQae1zYDBAEBBg8qhQMDPQEBBp7XNgMEAQIGDyqFAwM9AQEGntc2AwQBAwYPKoUDAz0BAQae1zYDBAEEBg8qhQMDPQEBBp7XNgMEAQUGDyqFAwM9AQEGntc2AwQBBgYPKoUDAz0BAQae1zYDBAEHBg8qhQMDPQEBBp7XNgMEAQgGDyqFAwM9AQEGntc2AwQBCQYPKoUDAz0BAQae1zYDBAEKBg8qhQMDPQEBBp7XNgMEAQsGDyqFAwM9AQEGntc2AwQBDAYPKoUDAz0BAQae1zYDBAEOBg0qhQMDPZ7XNgEGAwUBBg0qhQMDPZ7XNgEGAwUCBgcqhQMDgXsBBggqhQMDgXsBAgYIKoUDA4F7AQMGCCqFAwOBewEEBggqhQMDgXsBBQYIKoUDA4F7AQYGCCqFAwOBewEHBggqhQMDgXsBCAYIKoUDA4F7AQkGCCqFAwOBewEKBggqhQMDgXsBCwYIKoUDA4F7AQwGCCqFAwOBewEOBggqhQMDgXsIAQYIKoUDA4F7CAIwKwYDVR0QBCQwIoAPMjAyMDAzMDMxMDA5MjlagQ8yMDIxMDYwMzEwMDkyOVowggFfBgNVHSMEggFWMIIBUoAU0GSWbXJA61h9JH+7IFvPw45setShggEspIIBKDCCASQxHjAcBgkqhkiG9w0BCQEWD2RpdEBtaW5zdnlhei5ydTELMAkGA1UEBhMCUlUxGDAWBgNVBAgMDzc3INCc0L7RgdC60LLQsDEZMBcGA1UEBwwQ0LMuINCc0L7RgdC60LLQsDEuMCwGA1UECQwl0YPQu9C40YbQsCDQotCy0LXRgNGB0LrQsNGPLCDQtNC+0LwgNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgwwMDc3MTA0NzQzNzUxLDAqBgNVBAMMI9Cc0LjQvdC60L7QvNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4ggpiq3mVAAAAAAO2MGgGA1UdHwRhMF8wLqAsoCqGKGh0dHA6Ly9jcmwucm9za2F6bmEucnUvY3JsL3VjZmtfMjAyMC5jcmwwLaAroCmGJ2h0dHA6Ly9jcmwuZnNmay5sb2NhbC9jcmwvdWNma18yMDIwLmNybDAdBgNVHQ4EFgQU4+iKpt6d62H46NdfoycXEhZHgbswCgYIKoUDBwEBAwIDQQBG1p2+kxK0vmC31iX1a6hJGgcgF/NnxvS8R81J6n5du9QpWqAUGpRUpsACfRgMTtSf/hMHEbL5JiDZqrtUb4UQMYIEUjCCBE4CAQEwggGHMIIBbTEgMB4GCSqGSIb3DQEJARYRdWNfZmtAcm9za2F6bmEucnUxGTAXBgNVBAgMENCzLiDQnNC+0YHQutCy0LAxGjAYBggqhQMDgQMBARIMMDA3NzEwNTY4NzYwMRgwFgYFKoUDZAESDTEwNDc3OTcwMTk4MzAxYDBeBgNVBAkMV9CR0L7Qu9GM0YjQvtC5INCX0LvQsNGC0L7Rg9GB0YLQuNC90YHQutC40Lkg0L/QtdGA0LXRg9C70L7Quiwg0LQuIDYsINGB0YLRgNC+0LXQvdC40LUgMTEVMBMGA1UEBwwM0JzQvtGB0LrQstCwMQswCQYDVQQGEwJSVTE4MDYGA1UECgwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4xODA2BgNVBAMML9Ck0LXQtNC10YDQsNC70YzQvdC+0LUg0LrQsNC30L3QsNGH0LXQudGB0YLQstC+AhQjhFk7eVWo/q6dGH4TX/c5vIjI8DAMBggqhQMHAQECAgUAoIICSzAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yMDA5MTQxMTAyMzVaMC8GCSqGSIb3DQEJBDEiBCBXNCL7OPcskyruiO2DGpBdueDLb6o2fUcYq0dJB7NOzTCCAd4GCyqGSIb3DQEJEAIvMYIBzTCCAckwggHFMIIBwTAKBggqhQMHAQECAgQgDrZp9kR8TrXqjx5dnnWoSwAeZpQk5uyfMNVDDG9m2GwwggGPMIIBdaSCAXEwggFtMSAwHgYJKoZIhvcNAQkBFhF1Y19ma0Byb3NrYXpuYS5ydTEZMBcGA1UECAwQ0LMuINCc0L7RgdC60LLQsDEaMBgGCCqFAwOBAwEBEgwwMDc3MTA1Njg3NjAxGDAWBgUqhQNkARINMTA0Nzc5NzAxOTgzMDFgMF4GA1UECQxX0JHQvtC70YzRiNC+0Lkg0JfQu9Cw0YLQvtGD0YHRgtC40L3RgdC60LjQuSDQv9C10YDQtdGD0LvQvtC6LCDQtC4gNiwg0YHRgtGA0L7QtdC90LjQtSAxMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxCzAJBgNVBAYTAlJVMTgwNgYDVQQKDC/QpNC10LTQtdGA0LDQu9GM0L3QvtC1INC60LDQt9C90LDRh9C10LnRgdGC0LLQvjE4MDYGA1UEAwwv0KTQtdC00LXRgNCw0LvRjNC90L7QtSDQutCw0LfQvdCw0YfQtdC50YHRgtCy0L4CFCOEWTt5Vaj+rp0YfhNf9zm8iMjwMB8GCCqFAwcBAQEBMBMGByqFAwICJAAGCCqFAwcBAQICBEBjQflJIWAyVb4zyUkLHYl/emPZyRfXVdcJhhm9SOPEcJdBqRkEQafzD690XoNmEUnFeTMivSXkyYQe7rSpK2q4</signature>
+                </cryptoSigns>
+            </attachment>
+        </attachments>
+        <documentation>
+            <purchaseObjectsCh9St37>false</purchaseObjectsCh9St37>
+            <modifiable>false</modifiable>
+            <clarificationInfo>
+                <startDate>2020-09-14T13:02:45+02:00</startDate>
+                <filledManuallyStartDate>false</filledManuallyStartDate>
+                <endDate>2020-09-22T18:00:00+02:00</endDate>
+                <deliveryProcedure>Любой участник закупки, зарегистрированный в единой информационной системе и аккредитованный на электронной площадке, вправе направить с использованием программно-аппаратных средств электронной площадки на адрес электронной площадки, на которой планируется проведение такого аукциона, запрос о даче разъяснений положений документации о таком аукционе. При этом участник такого аукциона вправе направить не более чем три запроса о даче разъяснений положений данной документации в отношении одного такого аукциона. В течение одного часа с момента поступления указанного запроса он направляется оператором электронной площадки Заказчику. В течение двух дней с даты поступления от оператора электронной площадки запроса Заказчик размещает в единой информационной системе разъяснения положений документации об аукционе с указанием предмета запроса, но без указания участника такого аукциона, от которого поступил указанный запрос, при условии, что указанный запрос поступил Заказчику не позднее чем &#13;
+за три дня до даты окончания срока подачи заявок на участие в таком аукционе.&#13;
+</deliveryProcedure>
+            </clarificationInfo>
+            <onesideRejectionCh9St95>false</onesideRejectionCh9St95>
+            <printFormInfo>
+                <ns3:url>https://zakupki.gov.ru/epz/order/notice/printForm/viewXml.html?noticeId=24493633</ns3:url>
+                <ns3:signature type="CAdES-BES">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</ns3:signature>
+            </printFormInfo>
+        </documentation>
+    </ns2:fcsNotificationEF>
+</ns2:export>
